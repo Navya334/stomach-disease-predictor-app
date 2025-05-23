@@ -1,0 +1,1001 @@
+Symptom_1,Symptom_2,Symptom_3,Symptom_4,Symptom_5,Symptom_6,Disease
+indigestion,loss of appetite,stomach pain,bloating,nausea,vomiting,Gastritis
+persistent pain,loss of appetite,nausea,vomiting blood,unexplained weight loss,indigestion,Stomach Cancer
+constipation,bloating,abdominal pain,mucus in stool,diarrhea,gas,Irritable Bowel Syndrome
+vomiting,upper abdominal pain,nausea,rapid pulse,swollen abdomen,fever,Pancreatitis
+vomiting,nausea,stomach pain,indigestion,bloating,loss of appetite,Gastritis
+vomiting blood,persistent pain,nausea,loss of appetite,indigestion,unexplained weight loss,Stomach Cancer
+hard stools,infrequent stools,straining,bloating,incomplete evacuation,abdominal pain,Constipation
+indigestion,burning stomach pain,heartburn,bloating,weight loss,nausea,Peptic Ulcer
+diarrhea,stomach pain,cramps,nausea,bloating,gas,Lactose Intolerance
+vomiting blood,indigestion,persistent pain,loss of appetite,nausea,unexplained weight loss,Stomach Cancer
+nausea,loss of appetite,vomiting blood,unexplained weight loss,persistent pain,indigestion,Stomach Cancer
+gas,constipation,diarrhea,mucus in stool,abdominal pain,bloating,Irritable Bowel Syndrome
+gas,bloating,mucus in stool,diarrhea,constipation,abdominal pain,Irritable Bowel Syndrome
+vomiting,stomach pain,bloating,nausea,loss of appetite,indigestion,Gastritis
+infrequent stools,bloating,abdominal pain,incomplete evacuation,hard stools,straining,Constipation
+gas,bloating,diarrhea,constipation,abdominal pain,mucus in stool,Irritable Bowel Syndrome
+mucus in stool,bloating,gas,abdominal pain,diarrhea,constipation,Irritable Bowel Syndrome
+swollen abdomen,nausea,upper abdominal pain,rapid pulse,fever,vomiting,Pancreatitis
+bitter taste,regurgitation,heartburn,dry cough,chest pain,trouble swallowing,Acid Reflux
+trouble swallowing,chest pain,bitter taste,regurgitation,dry cough,heartburn,Acid Reflux
+nausea,dehydration,vomiting,fever,stomach cramps,diarrhea,Food Poisoning
+persistent pain,loss of appetite,indigestion,unexplained weight loss,vomiting blood,nausea,Stomach Cancer
+stomach cramps,nausea,diarrhea,dehydration,fever,vomiting,Food Poisoning
+bloating,gas,constipation,abdominal pain,mucus in stool,diarrhea,Irritable Bowel Syndrome
+bloating,burning stomach pain,heartburn,indigestion,nausea,weight loss,Peptic Ulcer
+bitter taste,heartburn,trouble swallowing,chest pain,regurgitation,dry cough,Acid Reflux
+mucus in stool,diarrhea,gas,constipation,abdominal pain,bloating,Irritable Bowel Syndrome
+shoulder pain,pain after eating,abdominal pain,indigestion,vomiting,nausea,Gallstones
+regurgitation,dry cough,heartburn,trouble swallowing,chest pain,bitter taste,Acid Reflux
+indigestion,nausea,weight loss,burning stomach pain,heartburn,bloating,Peptic Ulcer
+loss of appetite,indigestion,bloating,vomiting,nausea,stomach pain,Gastritis
+upper abdominal pain,fever,rapid pulse,swollen abdomen,nausea,vomiting,Pancreatitis
+loss of appetite,vomiting blood,nausea,persistent pain,indigestion,unexplained weight loss,Stomach Cancer
+fever,swollen abdomen,upper abdominal pain,rapid pulse,vomiting,nausea,Pancreatitis
+bloating,loss of appetite,indigestion,stomach pain,vomiting,nausea,Gastritis
+diarrhea,nausea,gas,cramps,stomach pain,bloating,Lactose Intolerance
+straining,infrequent stools,incomplete evacuation,bloating,hard stools,abdominal pain,Constipation
+fever,diarrhea,nausea,vomiting,dehydration,stomach cramps,Food Poisoning
+nausea,persistent pain,vomiting blood,indigestion,unexplained weight loss,loss of appetite,Stomach Cancer
+nausea,stomach pain,loss of appetite,vomiting,bloating,indigestion,Gastritis
+cramps,diarrhea,nausea,stomach pain,bloating,gas,Lactose Intolerance
+indigestion,unexplained weight loss,loss of appetite,persistent pain,vomiting blood,nausea,Stomach Cancer
+incomplete evacuation,straining,abdominal pain,bloating,hard stools,infrequent stools,Constipation
+loss of appetite,nausea,indigestion,stomach pain,bloating,vomiting,Gastritis
+nausea,upper abdominal pain,swollen abdomen,fever,rapid pulse,vomiting,Pancreatitis
+indigestion,nausea,weight loss,burning stomach pain,bloating,heartburn,Peptic Ulcer
+swollen abdomen,upper abdominal pain,rapid pulse,vomiting,nausea,fever,Pancreatitis
+abdominal pain,pain after eating,shoulder pain,nausea,indigestion,vomiting,Gallstones
+stomach pain,nausea,gas,cramps,diarrhea,bloating,Lactose Intolerance
+bitter taste,dry cough,chest pain,regurgitation,heartburn,trouble swallowing,Acid Reflux
+dry cough,chest pain,regurgitation,bitter taste,heartburn,trouble swallowing,Acid Reflux
+unexplained weight loss,indigestion,persistent pain,vomiting blood,nausea,loss of appetite,Stomach Cancer
+indigestion,burning stomach pain,heartburn,weight loss,nausea,bloating,Peptic Ulcer
+vomiting,swollen abdomen,upper abdominal pain,fever,rapid pulse,nausea,Pancreatitis
+heartburn,regurgitation,dry cough,bitter taste,chest pain,trouble swallowing,Acid Reflux
+bloating,vomiting,nausea,indigestion,loss of appetite,stomach pain,Gastritis
+pain after eating,abdominal pain,shoulder pain,nausea,vomiting,indigestion,Gallstones
+bloating,stomach pain,nausea,cramps,diarrhea,gas,Lactose Intolerance
+pain after eating,abdominal pain,nausea,vomiting,shoulder pain,indigestion,Gallstones
+constipation,diarrhea,bloating,mucus in stool,gas,abdominal pain,Irritable Bowel Syndrome
+stomach pain,cramps,nausea,bloating,gas,diarrhea,Lactose Intolerance
+indigestion,heartburn,burning stomach pain,bloating,weight loss,nausea,Peptic Ulcer
+stomach cramps,vomiting,diarrhea,nausea,dehydration,fever,Food Poisoning
+bitter taste,dry cough,chest pain,regurgitation,heartburn,trouble swallowing,Acid Reflux
+vomiting,stomach pain,indigestion,nausea,bloating,loss of appetite,Gastritis
+chest pain,trouble swallowing,dry cough,bitter taste,regurgitation,heartburn,Acid Reflux
+bloating,hard stools,incomplete evacuation,abdominal pain,infrequent stools,straining,Constipation
+nausea,shoulder pain,indigestion,vomiting,pain after eating,abdominal pain,Gallstones
+straining,hard stools,incomplete evacuation,bloating,infrequent stools,abdominal pain,Constipation
+nausea,unexplained weight loss,indigestion,persistent pain,vomiting blood,loss of appetite,Stomach Cancer
+regurgitation,heartburn,chest pain,bitter taste,trouble swallowing,dry cough,Acid Reflux
+nausea,vomiting blood,persistent pain,loss of appetite,indigestion,unexplained weight loss,Stomach Cancer
+fever,stomach cramps,diarrhea,vomiting,dehydration,nausea,Food Poisoning
+persistent pain,unexplained weight loss,vomiting blood,loss of appetite,nausea,indigestion,Stomach Cancer
+gas,cramps,stomach pain,bloating,diarrhea,nausea,Lactose Intolerance
+fever,vomiting,upper abdominal pain,nausea,rapid pulse,swollen abdomen,Pancreatitis
+stomach pain,gas,bloating,nausea,cramps,diarrhea,Lactose Intolerance
+weight loss,burning stomach pain,bloating,heartburn,nausea,indigestion,Peptic Ulcer
+persistent pain,vomiting blood,loss of appetite,unexplained weight loss,indigestion,nausea,Stomach Cancer
+loss of appetite,indigestion,bloating,vomiting,stomach pain,nausea,Gastritis
+nausea,pain after eating,abdominal pain,vomiting,shoulder pain,indigestion,Gallstones
+indigestion,weight loss,heartburn,burning stomach pain,bloating,nausea,Peptic Ulcer
+diarrhea,abdominal pain,mucus in stool,bloating,gas,constipation,Irritable Bowel Syndrome
+vomiting,shoulder pain,pain after eating,abdominal pain,indigestion,nausea,Gallstones
+nausea,diarrhea,bloating,stomach pain,gas,cramps,Lactose Intolerance
+gas,diarrhea,stomach pain,cramps,bloating,nausea,Lactose Intolerance
+burning stomach pain,heartburn,nausea,bloating,indigestion,weight loss,Peptic Ulcer
+gas,mucus in stool,bloating,abdominal pain,diarrhea,constipation,Irritable Bowel Syndrome
+constipation,gas,abdominal pain,mucus in stool,bloating,diarrhea,Irritable Bowel Syndrome
+bloating,nausea,heartburn,indigestion,weight loss,burning stomach pain,Peptic Ulcer
+heartburn,trouble swallowing,regurgitation,dry cough,chest pain,bitter taste,Acid Reflux
+bloating,gas,diarrhea,constipation,abdominal pain,mucus in stool,Irritable Bowel Syndrome
+bloating,mucus in stool,abdominal pain,constipation,diarrhea,gas,Irritable Bowel Syndrome
+abdominal pain,hard stools,bloating,incomplete evacuation,straining,infrequent stools,Constipation
+trouble swallowing,regurgitation,dry cough,heartburn,bitter taste,chest pain,Acid Reflux
+diarrhea,gas,cramps,nausea,bloating,stomach pain,Lactose Intolerance
+bloating,abdominal pain,hard stools,straining,incomplete evacuation,infrequent stools,Constipation
+heartburn,trouble swallowing,chest pain,bitter taste,dry cough,regurgitation,Acid Reflux
+fever,rapid pulse,upper abdominal pain,vomiting,nausea,swollen abdomen,Pancreatitis
+stomach pain,diarrhea,nausea,gas,bloating,cramps,Lactose Intolerance
+vomiting,loss of appetite,nausea,indigestion,bloating,stomach pain,Gastritis
+pain after eating,shoulder pain,nausea,abdominal pain,indigestion,vomiting,Gallstones
+abdominal pain,nausea,shoulder pain,indigestion,pain after eating,vomiting,Gallstones
+indigestion,persistent pain,unexplained weight loss,vomiting blood,nausea,loss of appetite,Stomach Cancer
+vomiting,diarrhea,stomach cramps,nausea,fever,dehydration,Food Poisoning
+indigestion,stomach pain,bloating,loss of appetite,vomiting,nausea,Gastritis
+chest pain,bitter taste,dry cough,regurgitation,heartburn,trouble swallowing,Acid Reflux
+loss of appetite,persistent pain,indigestion,unexplained weight loss,vomiting blood,nausea,Stomach Cancer
+burning stomach pain,nausea,indigestion,weight loss,bloating,heartburn,Peptic Ulcer
+bloating,gas,diarrhea,nausea,stomach pain,cramps,Lactose Intolerance
+weight loss,heartburn,nausea,bloating,indigestion,burning stomach pain,Peptic Ulcer
+bloating,burning stomach pain,nausea,heartburn,weight loss,indigestion,Peptic Ulcer
+regurgitation,trouble swallowing,bitter taste,chest pain,dry cough,heartburn,Acid Reflux
+incomplete evacuation,hard stools,infrequent stools,bloating,abdominal pain,straining,Constipation
+nausea,shoulder pain,indigestion,abdominal pain,pain after eating,vomiting,Gallstones
+burning stomach pain,indigestion,bloating,weight loss,nausea,heartburn,Peptic Ulcer
+hard stools,infrequent stools,straining,bloating,incomplete evacuation,abdominal pain,Constipation
+upper abdominal pain,swollen abdomen,vomiting,rapid pulse,nausea,fever,Pancreatitis
+diarrhea,stomach pain,bloating,nausea,gas,cramps,Lactose Intolerance
+stomach pain,nausea,bloating,vomiting,loss of appetite,indigestion,Gastritis
+burning stomach pain,nausea,heartburn,indigestion,weight loss,bloating,Peptic Ulcer
+upper abdominal pain,fever,rapid pulse,vomiting,nausea,swollen abdomen,Pancreatitis
+hard stools,infrequent stools,abdominal pain,bloating,incomplete evacuation,straining,Constipation
+loss of appetite,nausea,vomiting blood,unexplained weight loss,indigestion,persistent pain,Stomach Cancer
+vomiting,shoulder pain,pain after eating,abdominal pain,indigestion,nausea,Gallstones
+cramps,nausea,stomach pain,bloating,gas,diarrhea,Lactose Intolerance
+diarrhea,nausea,vomiting,fever,dehydration,stomach cramps,Food Poisoning
+abdominal pain,bloating,gas,mucus in stool,constipation,diarrhea,Irritable Bowel Syndrome
+mucus in stool,constipation,diarrhea,gas,bloating,abdominal pain,Irritable Bowel Syndrome
+abdominal pain,shoulder pain,indigestion,pain after eating,vomiting,nausea,Gallstones
+nausea,vomiting,stomach cramps,dehydration,diarrhea,fever,Food Poisoning
+diarrhea,constipation,mucus in stool,bloating,abdominal pain,gas,Irritable Bowel Syndrome
+mucus in stool,constipation,gas,diarrhea,abdominal pain,bloating,Irritable Bowel Syndrome
+vomiting,swollen abdomen,upper abdominal pain,fever,rapid pulse,nausea,Pancreatitis
+persistent pain,loss of appetite,unexplained weight loss,indigestion,nausea,vomiting blood,Stomach Cancer
+infrequent stools,hard stools,abdominal pain,incomplete evacuation,bloating,straining,Constipation
+nausea,rapid pulse,vomiting,upper abdominal pain,fever,swollen abdomen,Pancreatitis
+burning stomach pain,bloating,indigestion,heartburn,weight loss,nausea,Peptic Ulcer
+bloating,heartburn,weight loss,indigestion,nausea,burning stomach pain,Peptic Ulcer
+nausea,indigestion,loss of appetite,persistent pain,unexplained weight loss,vomiting blood,Stomach Cancer
+fever,swollen abdomen,vomiting,rapid pulse,upper abdominal pain,nausea,Pancreatitis
+burning stomach pain,heartburn,indigestion,nausea,bloating,weight loss,Peptic Ulcer
+pain after eating,indigestion,shoulder pain,abdominal pain,nausea,vomiting,Gallstones
+infrequent stools,hard stools,bloating,incomplete evacuation,straining,abdominal pain,Constipation
+persistent pain,indigestion,vomiting blood,loss of appetite,unexplained weight loss,nausea,Stomach Cancer
+vomiting,loss of appetite,nausea,bloating,stomach pain,indigestion,Gastritis
+bloating,weight loss,burning stomach pain,heartburn,indigestion,nausea,Peptic Ulcer
+constipation,mucus in stool,abdominal pain,diarrhea,gas,bloating,Irritable Bowel Syndrome
+upper abdominal pain,vomiting,nausea,fever,rapid pulse,swollen abdomen,Pancreatitis
+diarrhea,nausea,bloating,cramps,gas,stomach pain,Lactose Intolerance
+persistent pain,nausea,loss of appetite,vomiting blood,indigestion,unexplained weight loss,Stomach Cancer
+nausea,loss of appetite,unexplained weight loss,vomiting blood,indigestion,persistent pain,Stomach Cancer
+loss of appetite,vomiting,bloating,nausea,stomach pain,indigestion,Gastritis
+indigestion,vomiting blood,loss of appetite,nausea,persistent pain,unexplained weight loss,Stomach Cancer
+heartburn,indigestion,weight loss,nausea,burning stomach pain,bloating,Peptic Ulcer
+nausea,cramps,stomach pain,diarrhea,gas,bloating,Lactose Intolerance
+stomach pain,vomiting,loss of appetite,nausea,indigestion,bloating,Gastritis
+diarrhea,fever,nausea,stomach cramps,dehydration,vomiting,Food Poisoning
+vomiting,dehydration,nausea,stomach cramps,diarrhea,fever,Food Poisoning
+fever,dehydration,nausea,vomiting,stomach cramps,diarrhea,Food Poisoning
+vomiting,indigestion,stomach pain,bloating,nausea,loss of appetite,Gastritis
+upper abdominal pain,swollen abdomen,rapid pulse,vomiting,nausea,fever,Pancreatitis
+nausea,stomach cramps,diarrhea,fever,dehydration,vomiting,Food Poisoning
+abdominal pain,gas,mucus in stool,diarrhea,bloating,constipation,Irritable Bowel Syndrome
+loss of appetite,stomach pain,nausea,vomiting,indigestion,bloating,Gastritis
+constipation,mucus in stool,gas,bloating,abdominal pain,diarrhea,Irritable Bowel Syndrome
+vomiting,dehydration,nausea,diarrhea,fever,stomach cramps,Food Poisoning
+fever,vomiting,swollen abdomen,upper abdominal pain,nausea,rapid pulse,Pancreatitis
+bloating,stomach pain,cramps,gas,nausea,diarrhea,Lactose Intolerance
+stomach pain,loss of appetite,vomiting,indigestion,bloating,nausea,Gastritis
+bloating,nausea,burning stomach pain,indigestion,weight loss,heartburn,Peptic Ulcer
+dehydration,diarrhea,vomiting,nausea,fever,stomach cramps,Food Poisoning
+vomiting,nausea,stomach cramps,fever,diarrhea,dehydration,Food Poisoning
+vomiting,upper abdominal pain,nausea,rapid pulse,swollen abdomen,fever,Pancreatitis
+bloating,gas,diarrhea,cramps,nausea,stomach pain,Lactose Intolerance
+swollen abdomen,fever,rapid pulse,nausea,upper abdominal pain,vomiting,Pancreatitis
+nausea,loss of appetite,vomiting blood,persistent pain,unexplained weight loss,indigestion,Stomach Cancer
+bloating,diarrhea,nausea,stomach pain,cramps,gas,Lactose Intolerance
+vomiting,loss of appetite,stomach pain,nausea,bloating,indigestion,Gastritis
+fever,swollen abdomen,vomiting,rapid pulse,nausea,upper abdominal pain,Pancreatitis
+heartburn,regurgitation,dry cough,trouble swallowing,chest pain,bitter taste,Acid Reflux
+straining,abdominal pain,incomplete evacuation,bloating,hard stools,infrequent stools,Constipation
+unexplained weight loss,vomiting blood,persistent pain,loss of appetite,indigestion,nausea,Stomach Cancer
+diarrhea,constipation,bloating,gas,mucus in stool,abdominal pain,Irritable Bowel Syndrome
+dehydration,nausea,vomiting,diarrhea,fever,stomach cramps,Food Poisoning
+infrequent stools,abdominal pain,hard stools,incomplete evacuation,straining,bloating,Constipation
+pain after eating,vomiting,shoulder pain,abdominal pain,indigestion,nausea,Gallstones
+bitter taste,heartburn,trouble swallowing,chest pain,dry cough,regurgitation,Acid Reflux
+weight loss,indigestion,bloating,nausea,burning stomach pain,heartburn,Peptic Ulcer
+abdominal pain,infrequent stools,hard stools,incomplete evacuation,straining,bloating,Constipation
+weight loss,burning stomach pain,nausea,bloating,heartburn,indigestion,Peptic Ulcer
+heartburn,bloating,weight loss,indigestion,burning stomach pain,nausea,Peptic Ulcer
+stomach pain,gas,cramps,nausea,bloating,diarrhea,Lactose Intolerance
+nausea,stomach pain,bloating,indigestion,vomiting,loss of appetite,Gastritis
+swollen abdomen,vomiting,rapid pulse,upper abdominal pain,nausea,fever,Pancreatitis
+dry cough,chest pain,regurgitation,bitter taste,heartburn,trouble swallowing,Acid Reflux
+cramps,diarrhea,gas,stomach pain,nausea,bloating,Lactose Intolerance
+vomiting,swollen abdomen,fever,upper abdominal pain,rapid pulse,nausea,Pancreatitis
+fever,diarrhea,vomiting,stomach cramps,nausea,dehydration,Food Poisoning
+stomach cramps,dehydration,fever,diarrhea,nausea,vomiting,Food Poisoning
+unexplained weight loss,nausea,indigestion,loss of appetite,vomiting blood,persistent pain,Stomach Cancer
+dehydration,fever,stomach cramps,vomiting,diarrhea,nausea,Food Poisoning
+nausea,pain after eating,shoulder pain,vomiting,indigestion,abdominal pain,Gallstones
+heartburn,dry cough,regurgitation,chest pain,bitter taste,trouble swallowing,Acid Reflux
+heartburn,bloating,burning stomach pain,indigestion,nausea,weight loss,Peptic Ulcer
+gas,bloating,nausea,cramps,diarrhea,stomach pain,Lactose Intolerance
+abdominal pain,constipation,gas,mucus in stool,diarrhea,bloating,Irritable Bowel Syndrome
+gas,mucus in stool,constipation,diarrhea,bloating,abdominal pain,Irritable Bowel Syndrome
+stomach cramps,nausea,dehydration,vomiting,fever,diarrhea,Food Poisoning
+swollen abdomen,nausea,rapid pulse,fever,upper abdominal pain,vomiting,Pancreatitis
+stomach pain,nausea,diarrhea,gas,bloating,cramps,Lactose Intolerance
+nausea,indigestion,vomiting,shoulder pain,pain after eating,abdominal pain,Gallstones
+bloating,stomach pain,nausea,loss of appetite,indigestion,vomiting,Gastritis
+nausea,vomiting blood,loss of appetite,unexplained weight loss,indigestion,persistent pain,Stomach Cancer
+gas,bloating,cramps,nausea,stomach pain,diarrhea,Lactose Intolerance
+shoulder pain,vomiting,nausea,indigestion,pain after eating,abdominal pain,Gallstones
+mucus in stool,gas,abdominal pain,diarrhea,bloating,constipation,Irritable Bowel Syndrome
+nausea,dehydration,stomach cramps,diarrhea,vomiting,fever,Food Poisoning
+bloating,incomplete evacuation,straining,infrequent stools,abdominal pain,hard stools,Constipation
+nausea,gas,bloating,diarrhea,stomach pain,cramps,Lactose Intolerance
+gas,stomach pain,nausea,diarrhea,cramps,bloating,Lactose Intolerance
+upper abdominal pain,fever,nausea,swollen abdomen,rapid pulse,vomiting,Pancreatitis
+heartburn,dry cough,chest pain,regurgitation,bitter taste,trouble swallowing,Acid Reflux
+weight loss,heartburn,nausea,bloating,burning stomach pain,indigestion,Peptic Ulcer
+shoulder pain,abdominal pain,pain after eating,indigestion,vomiting,nausea,Gallstones
+bloating,loss of appetite,vomiting,nausea,indigestion,stomach pain,Gastritis
+diarrhea,bloating,cramps,nausea,gas,stomach pain,Lactose Intolerance
+vomiting,abdominal pain,pain after eating,indigestion,nausea,shoulder pain,Gallstones
+vomiting,nausea,fever,upper abdominal pain,rapid pulse,swollen abdomen,Pancreatitis
+dehydration,fever,vomiting,diarrhea,stomach cramps,nausea,Food Poisoning
+loss of appetite,persistent pain,unexplained weight loss,vomiting blood,indigestion,nausea,Stomach Cancer
+vomiting,nausea,dehydration,fever,stomach cramps,diarrhea,Food Poisoning
+loss of appetite,stomach pain,bloating,vomiting,indigestion,nausea,Gastritis
+fever,dehydration,nausea,stomach cramps,diarrhea,vomiting,Food Poisoning
+incomplete evacuation,infrequent stools,straining,abdominal pain,bloating,hard stools,Constipation
+straining,hard stools,bloating,infrequent stools,abdominal pain,incomplete evacuation,Constipation
+bloating,constipation,abdominal pain,diarrhea,mucus in stool,gas,Irritable Bowel Syndrome
+stomach pain,bloating,indigestion,loss of appetite,vomiting,nausea,Gastritis
+upper abdominal pain,nausea,rapid pulse,swollen abdomen,vomiting,fever,Pancreatitis
+bloating,infrequent stools,incomplete evacuation,straining,hard stools,abdominal pain,Constipation
+stomach pain,cramps,diarrhea,nausea,gas,bloating,Lactose Intolerance
+burning stomach pain,nausea,weight loss,indigestion,heartburn,bloating,Peptic Ulcer
+upper abdominal pain,rapid pulse,vomiting,fever,nausea,swollen abdomen,Pancreatitis
+heartburn,bitter taste,chest pain,trouble swallowing,regurgitation,dry cough,Acid Reflux
+mucus in stool,bloating,gas,abdominal pain,diarrhea,constipation,Irritable Bowel Syndrome
+dry cough,trouble swallowing,chest pain,regurgitation,bitter taste,heartburn,Acid Reflux
+swollen abdomen,nausea,vomiting,rapid pulse,upper abdominal pain,fever,Pancreatitis
+bloating,stomach pain,loss of appetite,vomiting,indigestion,nausea,Gastritis
+cramps,nausea,bloating,gas,stomach pain,diarrhea,Lactose Intolerance
+rapid pulse,upper abdominal pain,swollen abdomen,vomiting,nausea,fever,Pancreatitis
+nausea,indigestion,weight loss,heartburn,bloating,burning stomach pain,Peptic Ulcer
+swollen abdomen,nausea,vomiting,rapid pulse,upper abdominal pain,fever,Pancreatitis
+vomiting,nausea,fever,stomach cramps,diarrhea,dehydration,Food Poisoning
+diarrhea,gas,mucus in stool,bloating,abdominal pain,constipation,Irritable Bowel Syndrome
+vomiting,stomach cramps,diarrhea,nausea,dehydration,fever,Food Poisoning
+cramps,gas,stomach pain,bloating,diarrhea,nausea,Lactose Intolerance
+diarrhea,vomiting,dehydration,nausea,fever,stomach cramps,Food Poisoning
+fever,nausea,vomiting,upper abdominal pain,swollen abdomen,rapid pulse,Pancreatitis
+vomiting,dehydration,fever,stomach cramps,nausea,diarrhea,Food Poisoning
+stomach pain,vomiting,bloating,nausea,indigestion,loss of appetite,Gastritis
+cramps,diarrhea,gas,nausea,stomach pain,bloating,Lactose Intolerance
+weight loss,bloating,heartburn,indigestion,burning stomach pain,nausea,Peptic Ulcer
+stomach cramps,nausea,dehydration,fever,diarrhea,vomiting,Food Poisoning
+gas,nausea,cramps,stomach pain,bloating,diarrhea,Lactose Intolerance
+swollen abdomen,nausea,vomiting,rapid pulse,upper abdominal pain,fever,Pancreatitis
+bloating,heartburn,nausea,indigestion,burning stomach pain,weight loss,Peptic Ulcer
+heartburn,bloating,indigestion,burning stomach pain,weight loss,nausea,Peptic Ulcer
+bloating,diarrhea,cramps,stomach pain,nausea,gas,Lactose Intolerance
+indigestion,vomiting,pain after eating,shoulder pain,abdominal pain,nausea,Gallstones
+gas,cramps,bloating,nausea,stomach pain,diarrhea,Lactose Intolerance
+trouble swallowing,regurgitation,dry cough,chest pain,bitter taste,heartburn,Acid Reflux
+heartburn,indigestion,nausea,burning stomach pain,bloating,weight loss,Peptic Ulcer
+upper abdominal pain,fever,vomiting,rapid pulse,nausea,swollen abdomen,Pancreatitis
+cramps,stomach pain,nausea,bloating,diarrhea,gas,Lactose Intolerance
+abdominal pain,incomplete evacuation,hard stools,bloating,straining,infrequent stools,Constipation
+fever,diarrhea,nausea,dehydration,stomach cramps,vomiting,Food Poisoning
+bloating,abdominal pain,hard stools,infrequent stools,incomplete evacuation,straining,Constipation
+cramps,diarrhea,bloating,stomach pain,nausea,gas,Lactose Intolerance
+bloating,indigestion,nausea,loss of appetite,vomiting,stomach pain,Gastritis
+bloating,indigestion,weight loss,heartburn,burning stomach pain,nausea,Peptic Ulcer
+chest pain,bitter taste,heartburn,trouble swallowing,regurgitation,dry cough,Acid Reflux
+stomach pain,diarrhea,gas,bloating,cramps,nausea,Lactose Intolerance
+nausea,upper abdominal pain,vomiting,rapid pulse,fever,swollen abdomen,Pancreatitis
+indigestion,weight loss,heartburn,burning stomach pain,bloating,nausea,Peptic Ulcer
+incomplete evacuation,abdominal pain,bloating,hard stools,infrequent stools,straining,Constipation
+regurgitation,chest pain,bitter taste,heartburn,dry cough,trouble swallowing,Acid Reflux
+bloating,nausea,loss of appetite,indigestion,stomach pain,vomiting,Gastritis
+nausea,loss of appetite,stomach pain,bloating,vomiting,indigestion,Gastritis
+nausea,fever,stomach cramps,dehydration,diarrhea,vomiting,Food Poisoning
+burning stomach pain,indigestion,nausea,heartburn,weight loss,bloating,Peptic Ulcer
+fever,swollen abdomen,rapid pulse,vomiting,nausea,upper abdominal pain,Pancreatitis
+abdominal pain,diarrhea,mucus in stool,constipation,gas,bloating,Irritable Bowel Syndrome
+loss of appetite,stomach pain,bloating,indigestion,nausea,vomiting,Gastritis
+swollen abdomen,vomiting,nausea,rapid pulse,upper abdominal pain,fever,Pancreatitis
+incomplete evacuation,hard stools,abdominal pain,straining,bloating,infrequent stools,Constipation
+abdominal pain,bloating,gas,diarrhea,mucus in stool,constipation,Irritable Bowel Syndrome
+dry cough,heartburn,chest pain,regurgitation,trouble swallowing,bitter taste,Acid Reflux
+gas,diarrhea,cramps,bloating,stomach pain,nausea,Lactose Intolerance
+bloating,nausea,loss of appetite,vomiting,stomach pain,indigestion,Gastritis
+gas,nausea,diarrhea,stomach pain,cramps,bloating,Lactose Intolerance
+shoulder pain,nausea,pain after eating,abdominal pain,vomiting,indigestion,Gallstones
+mucus in stool,diarrhea,gas,abdominal pain,bloating,constipation,Irritable Bowel Syndrome
+nausea,fever,stomach cramps,vomiting,dehydration,diarrhea,Food Poisoning
+chest pain,dry cough,heartburn,regurgitation,trouble swallowing,bitter taste,Acid Reflux
+dehydration,vomiting,stomach cramps,nausea,diarrhea,fever,Food Poisoning
+infrequent stools,abdominal pain,straining,bloating,incomplete evacuation,hard stools,Constipation
+diarrhea,vomiting,dehydration,nausea,stomach cramps,fever,Food Poisoning
+dehydration,stomach cramps,fever,diarrhea,nausea,vomiting,Food Poisoning
+nausea,vomiting,indigestion,loss of appetite,bloating,stomach pain,Gastritis
+indigestion,weight loss,nausea,burning stomach pain,bloating,heartburn,Peptic Ulcer
+incomplete evacuation,abdominal pain,hard stools,bloating,straining,infrequent stools,Constipation
+nausea,indigestion,bloating,heartburn,weight loss,burning stomach pain,Peptic Ulcer
+upper abdominal pain,swollen abdomen,rapid pulse,nausea,fever,vomiting,Pancreatitis
+cramps,nausea,stomach pain,diarrhea,gas,bloating,Lactose Intolerance
+rapid pulse,fever,upper abdominal pain,nausea,vomiting,swollen abdomen,Pancreatitis
+rapid pulse,upper abdominal pain,vomiting,swollen abdomen,nausea,fever,Pancreatitis
+diarrhea,dehydration,vomiting,stomach cramps,fever,nausea,Food Poisoning
+nausea,stomach pain,bloating,indigestion,loss of appetite,vomiting,Gastritis
+dehydration,vomiting,fever,nausea,diarrhea,stomach cramps,Food Poisoning
+stomach pain,vomiting,indigestion,nausea,loss of appetite,bloating,Gastritis
+diarrhea,bloating,abdominal pain,mucus in stool,constipation,gas,Irritable Bowel Syndrome
+straining,infrequent stools,incomplete evacuation,abdominal pain,hard stools,bloating,Constipation
+indigestion,burning stomach pain,nausea,bloating,heartburn,weight loss,Peptic Ulcer
+abdominal pain,hard stools,bloating,incomplete evacuation,straining,infrequent stools,Constipation
+stomach cramps,dehydration,nausea,fever,diarrhea,vomiting,Food Poisoning
+chest pain,regurgitation,heartburn,dry cough,trouble swallowing,bitter taste,Acid Reflux
+abdominal pain,mucus in stool,diarrhea,constipation,bloating,gas,Irritable Bowel Syndrome
+straining,hard stools,abdominal pain,incomplete evacuation,infrequent stools,bloating,Constipation
+pain after eating,shoulder pain,nausea,vomiting,indigestion,abdominal pain,Gallstones
+trouble swallowing,bitter taste,heartburn,dry cough,chest pain,regurgitation,Acid Reflux
+cramps,bloating,diarrhea,nausea,gas,stomach pain,Lactose Intolerance
+bloating,mucus in stool,gas,constipation,abdominal pain,diarrhea,Irritable Bowel Syndrome
+incomplete evacuation,hard stools,infrequent stools,abdominal pain,straining,bloating,Constipation
+loss of appetite,persistent pain,vomiting blood,unexplained weight loss,indigestion,nausea,Stomach Cancer
+upper abdominal pain,swollen abdomen,rapid pulse,vomiting,nausea,fever,Pancreatitis
+loss of appetite,indigestion,nausea,persistent pain,vomiting blood,unexplained weight loss,Stomach Cancer
+burning stomach pain,heartburn,indigestion,weight loss,bloating,nausea,Peptic Ulcer
+nausea,indigestion,stomach pain,vomiting,loss of appetite,bloating,Gastritis
+stomach pain,loss of appetite,indigestion,vomiting,nausea,bloating,Gastritis
+bloating,mucus in stool,abdominal pain,diarrhea,constipation,gas,Irritable Bowel Syndrome
+nausea,persistent pain,unexplained weight loss,loss of appetite,vomiting blood,indigestion,Stomach Cancer
+gas,diarrhea,constipation,bloating,abdominal pain,mucus in stool,Irritable Bowel Syndrome
+cramps,nausea,bloating,gas,diarrhea,stomach pain,Lactose Intolerance
+indigestion,pain after eating,abdominal pain,shoulder pain,vomiting,nausea,Gallstones
+regurgitation,trouble swallowing,heartburn,chest pain,bitter taste,dry cough,Acid Reflux
+pain after eating,vomiting,indigestion,abdominal pain,nausea,shoulder pain,Gallstones
+chest pain,regurgitation,bitter taste,heartburn,trouble swallowing,dry cough,Acid Reflux
+dry cough,bitter taste,trouble swallowing,regurgitation,chest pain,heartburn,Acid Reflux
+vomiting,bloating,nausea,indigestion,stomach pain,loss of appetite,Gastritis
+burning stomach pain,indigestion,heartburn,bloating,nausea,weight loss,Peptic Ulcer
+cramps,gas,bloating,nausea,diarrhea,stomach pain,Lactose Intolerance
+bloating,gas,constipation,abdominal pain,mucus in stool,diarrhea,Irritable Bowel Syndrome
+chest pain,dry cough,bitter taste,trouble swallowing,regurgitation,heartburn,Acid Reflux
+vomiting,nausea,indigestion,pain after eating,abdominal pain,shoulder pain,Gallstones
+straining,incomplete evacuation,infrequent stools,hard stools,bloating,abdominal pain,Constipation
+trouble swallowing,heartburn,bitter taste,chest pain,dry cough,regurgitation,Acid Reflux
+loss of appetite,bloating,vomiting,nausea,indigestion,stomach pain,Gastritis
+vomiting blood,loss of appetite,unexplained weight loss,indigestion,nausea,persistent pain,Stomach Cancer
+unexplained weight loss,persistent pain,indigestion,vomiting blood,nausea,loss of appetite,Stomach Cancer
+indigestion,bloating,stomach pain,vomiting,nausea,loss of appetite,Gastritis
+abdominal pain,diarrhea,bloating,constipation,mucus in stool,gas,Irritable Bowel Syndrome
+upper abdominal pain,fever,vomiting,rapid pulse,swollen abdomen,nausea,Pancreatitis
+dehydration,diarrhea,nausea,fever,stomach cramps,vomiting,Food Poisoning
+unexplained weight loss,vomiting blood,persistent pain,nausea,loss of appetite,indigestion,Stomach Cancer
+stomach pain,gas,bloating,cramps,diarrhea,nausea,Lactose Intolerance
+burning stomach pain,indigestion,heartburn,nausea,weight loss,bloating,Peptic Ulcer
+stomach pain,nausea,loss of appetite,indigestion,bloating,vomiting,Gastritis
+nausea,cramps,stomach pain,bloating,gas,diarrhea,Lactose Intolerance
+vomiting,nausea,diarrhea,stomach cramps,dehydration,fever,Food Poisoning
+swollen abdomen,rapid pulse,upper abdominal pain,vomiting,fever,nausea,Pancreatitis
+dry cough,regurgitation,bitter taste,chest pain,trouble swallowing,heartburn,Acid Reflux
+nausea,rapid pulse,vomiting,swollen abdomen,upper abdominal pain,fever,Pancreatitis
+unexplained weight loss,nausea,vomiting blood,loss of appetite,indigestion,persistent pain,Stomach Cancer
+trouble swallowing,chest pain,dry cough,bitter taste,regurgitation,heartburn,Acid Reflux
+regurgitation,bitter taste,trouble swallowing,chest pain,dry cough,heartburn,Acid Reflux
+mucus in stool,abdominal pain,constipation,diarrhea,gas,bloating,Irritable Bowel Syndrome
+diarrhea,fever,vomiting,dehydration,stomach cramps,nausea,Food Poisoning
+nausea,fever,diarrhea,dehydration,stomach cramps,vomiting,Food Poisoning
+rapid pulse,upper abdominal pain,fever,vomiting,swollen abdomen,nausea,Pancreatitis
+loss of appetite,bloating,indigestion,vomiting,stomach pain,nausea,Gastritis
+nausea,cramps,bloating,stomach pain,gas,diarrhea,Lactose Intolerance
+stomach pain,bloating,loss of appetite,vomiting,indigestion,nausea,Gastritis
+bloating,vomiting,nausea,stomach pain,indigestion,loss of appetite,Gastritis
+chest pain,trouble swallowing,regurgitation,heartburn,dry cough,bitter taste,Acid Reflux
+incomplete evacuation,bloating,hard stools,abdominal pain,straining,infrequent stools,Constipation
+nausea,bloating,diarrhea,cramps,stomach pain,gas,Lactose Intolerance
+fever,rapid pulse,upper abdominal pain,vomiting,nausea,swollen abdomen,Pancreatitis
+bloating,infrequent stools,abdominal pain,straining,hard stools,incomplete evacuation,Constipation
+stomach cramps,vomiting,fever,dehydration,diarrhea,nausea,Food Poisoning
+stomach pain,diarrhea,cramps,gas,bloating,nausea,Lactose Intolerance
+persistent pain,vomiting blood,loss of appetite,indigestion,unexplained weight loss,nausea,Stomach Cancer
+mucus in stool,diarrhea,abdominal pain,constipation,bloating,gas,Irritable Bowel Syndrome
+nausea,weight loss,heartburn,indigestion,bloating,burning stomach pain,Peptic Ulcer
+pain after eating,indigestion,nausea,shoulder pain,vomiting,abdominal pain,Gallstones
+nausea,fever,vomiting,stomach cramps,dehydration,diarrhea,Food Poisoning
+abdominal pain,bloating,mucus in stool,gas,diarrhea,constipation,Irritable Bowel Syndrome
+swollen abdomen,fever,rapid pulse,nausea,upper abdominal pain,vomiting,Pancreatitis
+loss of appetite,indigestion,bloating,vomiting,stomach pain,nausea,Gastritis
+burning stomach pain,weight loss,bloating,heartburn,indigestion,nausea,Peptic Ulcer
+vomiting,nausea,indigestion,loss of appetite,bloating,stomach pain,Gastritis
+cramps,gas,bloating,stomach pain,nausea,diarrhea,Lactose Intolerance
+indigestion,stomach pain,loss of appetite,nausea,bloating,vomiting,Gastritis
+bitter taste,regurgitation,chest pain,trouble swallowing,heartburn,dry cough,Acid Reflux
+trouble swallowing,bitter taste,dry cough,heartburn,regurgitation,chest pain,Acid Reflux
+shoulder pain,indigestion,abdominal pain,nausea,pain after eating,vomiting,Gallstones
+nausea,unexplained weight loss,loss of appetite,indigestion,vomiting blood,persistent pain,Stomach Cancer
+vomiting,bloating,loss of appetite,stomach pain,indigestion,nausea,Gastritis
+indigestion,stomach pain,loss of appetite,vomiting,nausea,bloating,Gastritis
+stomach pain,nausea,indigestion,bloating,vomiting,loss of appetite,Gastritis
+nausea,gas,cramps,stomach pain,diarrhea,bloating,Lactose Intolerance
+stomach pain,bloating,indigestion,vomiting,loss of appetite,nausea,Gastritis
+swollen abdomen,rapid pulse,vomiting,upper abdominal pain,nausea,fever,Pancreatitis
+unexplained weight loss,indigestion,persistent pain,vomiting blood,loss of appetite,nausea,Stomach Cancer
+stomach cramps,vomiting,dehydration,diarrhea,fever,nausea,Food Poisoning
+gas,constipation,mucus in stool,abdominal pain,diarrhea,bloating,Irritable Bowel Syndrome
+shoulder pain,abdominal pain,indigestion,vomiting,pain after eating,nausea,Gallstones
+stomach cramps,nausea,fever,vomiting,dehydration,diarrhea,Food Poisoning
+incomplete evacuation,infrequent stools,abdominal pain,bloating,straining,hard stools,Constipation
+cramps,stomach pain,bloating,nausea,diarrhea,gas,Lactose Intolerance
+chest pain,regurgitation,bitter taste,trouble swallowing,dry cough,heartburn,Acid Reflux
+rapid pulse,swollen abdomen,vomiting,upper abdominal pain,fever,nausea,Pancreatitis
+vomiting blood,loss of appetite,indigestion,persistent pain,unexplained weight loss,nausea,Stomach Cancer
+nausea,indigestion,pain after eating,vomiting,shoulder pain,abdominal pain,Gallstones
+dry cough,trouble swallowing,regurgitation,bitter taste,heartburn,chest pain,Acid Reflux
+heartburn,weight loss,nausea,bloating,burning stomach pain,indigestion,Peptic Ulcer
+mucus in stool,abdominal pain,diarrhea,bloating,constipation,gas,Irritable Bowel Syndrome
+diarrhea,gas,mucus in stool,bloating,abdominal pain,constipation,Irritable Bowel Syndrome
+incomplete evacuation,straining,infrequent stools,bloating,abdominal pain,hard stools,Constipation
+heartburn,burning stomach pain,bloating,weight loss,indigestion,nausea,Peptic Ulcer
+trouble swallowing,chest pain,heartburn,bitter taste,dry cough,regurgitation,Acid Reflux
+bloating,diarrhea,mucus in stool,gas,constipation,abdominal pain,Irritable Bowel Syndrome
+abdominal pain,shoulder pain,pain after eating,indigestion,vomiting,nausea,Gallstones
+indigestion,bloating,nausea,burning stomach pain,weight loss,heartburn,Peptic Ulcer
+abdominal pain,bloating,gas,constipation,mucus in stool,diarrhea,Irritable Bowel Syndrome
+dehydration,vomiting,diarrhea,nausea,stomach cramps,fever,Food Poisoning
+chest pain,trouble swallowing,regurgitation,dry cough,heartburn,bitter taste,Acid Reflux
+bloating,weight loss,heartburn,indigestion,burning stomach pain,nausea,Peptic Ulcer
+abdominal pain,indigestion,shoulder pain,vomiting,pain after eating,nausea,Gallstones
+bloating,diarrhea,abdominal pain,mucus in stool,constipation,gas,Irritable Bowel Syndrome
+bitter taste,chest pain,trouble swallowing,heartburn,dry cough,regurgitation,Acid Reflux
+loss of appetite,vomiting blood,unexplained weight loss,nausea,persistent pain,indigestion,Stomach Cancer
+unexplained weight loss,loss of appetite,indigestion,persistent pain,vomiting blood,nausea,Stomach Cancer
+dehydration,fever,nausea,stomach cramps,vomiting,diarrhea,Food Poisoning
+stomach pain,nausea,loss of appetite,vomiting,bloating,indigestion,Gastritis
+chest pain,trouble swallowing,bitter taste,regurgitation,heartburn,dry cough,Acid Reflux
+diarrhea,abdominal pain,gas,bloating,constipation,mucus in stool,Irritable Bowel Syndrome
+vomiting,upper abdominal pain,nausea,fever,swollen abdomen,rapid pulse,Pancreatitis
+hard stools,straining,bloating,abdominal pain,infrequent stools,incomplete evacuation,Constipation
+chest pain,dry cough,heartburn,trouble swallowing,bitter taste,regurgitation,Acid Reflux
+dehydration,diarrhea,vomiting,nausea,stomach cramps,fever,Food Poisoning
+mucus in stool,gas,abdominal pain,constipation,diarrhea,bloating,Irritable Bowel Syndrome
+incomplete evacuation,infrequent stools,hard stools,abdominal pain,bloating,straining,Constipation
+shoulder pain,pain after eating,abdominal pain,vomiting,nausea,indigestion,Gallstones
+weight loss,nausea,indigestion,burning stomach pain,heartburn,bloating,Peptic Ulcer
+nausea,stomach pain,indigestion,loss of appetite,bloating,vomiting,Gastritis
+indigestion,nausea,bloating,burning stomach pain,weight loss,heartburn,Peptic Ulcer
+stomach pain,diarrhea,bloating,cramps,gas,nausea,Lactose Intolerance
+bitter taste,trouble swallowing,chest pain,dry cough,regurgitation,heartburn,Acid Reflux
+nausea,indigestion,stomach pain,loss of appetite,vomiting,bloating,Gastritis
+unexplained weight loss,vomiting blood,indigestion,loss of appetite,nausea,persistent pain,Stomach Cancer
+loss of appetite,indigestion,nausea,unexplained weight loss,vomiting blood,persistent pain,Stomach Cancer
+diarrhea,nausea,vomiting,stomach cramps,fever,dehydration,Food Poisoning
+nausea,loss of appetite,vomiting,indigestion,stomach pain,bloating,Gastritis
+vomiting,pain after eating,nausea,abdominal pain,indigestion,shoulder pain,Gallstones
+diarrhea,fever,vomiting,dehydration,stomach cramps,nausea,Food Poisoning
+abdominal pain,nausea,shoulder pain,vomiting,pain after eating,indigestion,Gallstones
+nausea,stomach cramps,dehydration,vomiting,fever,diarrhea,Food Poisoning
+vomiting,stomach pain,loss of appetite,indigestion,nausea,bloating,Gastritis
+heartburn,regurgitation,bitter taste,dry cough,trouble swallowing,chest pain,Acid Reflux
+fever,swollen abdomen,rapid pulse,upper abdominal pain,vomiting,nausea,Pancreatitis
+regurgitation,trouble swallowing,chest pain,dry cough,bitter taste,heartburn,Acid Reflux
+abdominal pain,hard stools,infrequent stools,incomplete evacuation,bloating,straining,Constipation
+chest pain,dry cough,bitter taste,heartburn,trouble swallowing,regurgitation,Acid Reflux
+swollen abdomen,fever,upper abdominal pain,nausea,vomiting,rapid pulse,Pancreatitis
+diarrhea,nausea,fever,vomiting,stomach cramps,dehydration,Food Poisoning
+loss of appetite,bloating,stomach pain,vomiting,nausea,indigestion,Gastritis
+nausea,loss of appetite,stomach pain,indigestion,bloating,vomiting,Gastritis
+diarrhea,stomach cramps,dehydration,nausea,fever,vomiting,Food Poisoning
+swollen abdomen,rapid pulse,fever,vomiting,upper abdominal pain,nausea,Pancreatitis
+cramps,diarrhea,gas,bloating,nausea,stomach pain,Lactose Intolerance
+persistent pain,nausea,vomiting blood,unexplained weight loss,indigestion,loss of appetite,Stomach Cancer
+incomplete evacuation,straining,infrequent stools,hard stools,bloating,abdominal pain,Constipation
+fever,nausea,upper abdominal pain,swollen abdomen,rapid pulse,vomiting,Pancreatitis
+diarrhea,stomach pain,cramps,gas,bloating,nausea,Lactose Intolerance
+burning stomach pain,nausea,weight loss,heartburn,bloating,indigestion,Peptic Ulcer
+heartburn,burning stomach pain,bloating,weight loss,indigestion,nausea,Peptic Ulcer
+constipation,diarrhea,abdominal pain,mucus in stool,bloating,gas,Irritable Bowel Syndrome
+vomiting,nausea,shoulder pain,indigestion,abdominal pain,pain after eating,Gallstones
+loss of appetite,bloating,vomiting,stomach pain,indigestion,nausea,Gastritis
+bloating,gas,nausea,cramps,diarrhea,stomach pain,Lactose Intolerance
+rapid pulse,upper abdominal pain,nausea,swollen abdomen,fever,vomiting,Pancreatitis
+bloating,abdominal pain,constipation,gas,mucus in stool,diarrhea,Irritable Bowel Syndrome
+diarrhea,gas,cramps,nausea,stomach pain,bloating,Lactose Intolerance
+vomiting,stomach cramps,dehydration,fever,nausea,diarrhea,Food Poisoning
+heartburn,weight loss,bloating,indigestion,burning stomach pain,nausea,Peptic Ulcer
+nausea,stomach pain,diarrhea,gas,bloating,cramps,Lactose Intolerance
+heartburn,regurgitation,bitter taste,dry cough,chest pain,trouble swallowing,Acid Reflux
+upper abdominal pain,swollen abdomen,nausea,fever,vomiting,rapid pulse,Pancreatitis
+indigestion,nausea,shoulder pain,vomiting,abdominal pain,pain after eating,Gallstones
+loss of appetite,nausea,persistent pain,indigestion,unexplained weight loss,vomiting blood,Stomach Cancer
+cramps,bloating,diarrhea,stomach pain,gas,nausea,Lactose Intolerance
+loss of appetite,persistent pain,nausea,vomiting blood,indigestion,unexplained weight loss,Stomach Cancer
+gas,diarrhea,bloating,nausea,stomach pain,cramps,Lactose Intolerance
+burning stomach pain,heartburn,nausea,weight loss,bloating,indigestion,Peptic Ulcer
+vomiting,upper abdominal pain,rapid pulse,nausea,fever,swollen abdomen,Pancreatitis
+mucus in stool,gas,constipation,bloating,abdominal pain,diarrhea,Irritable Bowel Syndrome
+stomach cramps,nausea,vomiting,dehydration,fever,diarrhea,Food Poisoning
+nausea,vomiting blood,loss of appetite,unexplained weight loss,persistent pain,indigestion,Stomach Cancer
+bloating,constipation,diarrhea,gas,abdominal pain,mucus in stool,Irritable Bowel Syndrome
+persistent pain,nausea,vomiting blood,unexplained weight loss,indigestion,loss of appetite,Stomach Cancer
+mucus in stool,diarrhea,constipation,abdominal pain,bloating,gas,Irritable Bowel Syndrome
+bitter taste,heartburn,regurgitation,chest pain,dry cough,trouble swallowing,Acid Reflux
+persistent pain,nausea,indigestion,unexplained weight loss,vomiting blood,loss of appetite,Stomach Cancer
+nausea,swollen abdomen,vomiting,fever,upper abdominal pain,rapid pulse,Pancreatitis
+nausea,vomiting,loss of appetite,bloating,indigestion,stomach pain,Gastritis
+vomiting,shoulder pain,abdominal pain,nausea,indigestion,pain after eating,Gallstones
+trouble swallowing,bitter taste,dry cough,chest pain,heartburn,regurgitation,Acid Reflux
+indigestion,bloating,loss of appetite,vomiting,stomach pain,nausea,Gastritis
+fever,nausea,diarrhea,dehydration,stomach cramps,vomiting,Food Poisoning
+vomiting blood,persistent pain,loss of appetite,unexplained weight loss,nausea,indigestion,Stomach Cancer
+indigestion,nausea,persistent pain,loss of appetite,unexplained weight loss,vomiting blood,Stomach Cancer
+hard stools,abdominal pain,incomplete evacuation,bloating,infrequent stools,straining,Constipation
+vomiting,fever,diarrhea,stomach cramps,dehydration,nausea,Food Poisoning
+heartburn,weight loss,indigestion,nausea,bloating,burning stomach pain,Peptic Ulcer
+stomach pain,loss of appetite,indigestion,nausea,vomiting,bloating,Gastritis
+nausea,indigestion,bloating,stomach pain,loss of appetite,vomiting,Gastritis
+vomiting,stomach pain,nausea,bloating,loss of appetite,indigestion,Gastritis
+stomach pain,loss of appetite,nausea,indigestion,bloating,vomiting,Gastritis
+bitter taste,regurgitation,dry cough,chest pain,trouble swallowing,heartburn,Acid Reflux
+heartburn,trouble swallowing,dry cough,bitter taste,regurgitation,chest pain,Acid Reflux
+burning stomach pain,heartburn,bloating,weight loss,indigestion,nausea,Peptic Ulcer
+straining,infrequent stools,incomplete evacuation,abdominal pain,hard stools,bloating,Constipation
+hard stools,incomplete evacuation,bloating,straining,infrequent stools,abdominal pain,Constipation
+heartburn,dry cough,bitter taste,trouble swallowing,regurgitation,chest pain,Acid Reflux
+chest pain,dry cough,trouble swallowing,regurgitation,bitter taste,heartburn,Acid Reflux
+dehydration,stomach cramps,vomiting,diarrhea,fever,nausea,Food Poisoning
+nausea,vomiting blood,unexplained weight loss,indigestion,loss of appetite,persistent pain,Stomach Cancer
+indigestion,persistent pain,loss of appetite,nausea,vomiting blood,unexplained weight loss,Stomach Cancer
+diarrhea,dehydration,fever,vomiting,stomach cramps,nausea,Food Poisoning
+straining,infrequent stools,hard stools,bloating,abdominal pain,incomplete evacuation,Constipation
+straining,hard stools,infrequent stools,bloating,incomplete evacuation,abdominal pain,Constipation
+heartburn,regurgitation,dry cough,chest pain,trouble swallowing,bitter taste,Acid Reflux
+unexplained weight loss,loss of appetite,indigestion,nausea,persistent pain,vomiting blood,Stomach Cancer
+diarrhea,nausea,gas,stomach pain,cramps,bloating,Lactose Intolerance
+nausea,indigestion,vomiting,loss of appetite,stomach pain,bloating,Gastritis
+dehydration,fever,nausea,diarrhea,stomach cramps,vomiting,Food Poisoning
+burning stomach pain,nausea,weight loss,bloating,indigestion,heartburn,Peptic Ulcer
+bloating,indigestion,vomiting,stomach pain,nausea,loss of appetite,Gastritis
+diarrhea,constipation,mucus in stool,bloating,gas,abdominal pain,Irritable Bowel Syndrome
+bloating,stomach pain,loss of appetite,indigestion,vomiting,nausea,Gastritis
+vomiting,nausea,upper abdominal pain,swollen abdomen,fever,rapid pulse,Pancreatitis
+burning stomach pain,nausea,heartburn,bloating,weight loss,indigestion,Peptic Ulcer
+bloating,loss of appetite,stomach pain,vomiting,indigestion,nausea,Gastritis
+unexplained weight loss,persistent pain,nausea,vomiting blood,indigestion,loss of appetite,Stomach Cancer
+diarrhea,cramps,bloating,gas,nausea,stomach pain,Lactose Intolerance
+burning stomach pain,indigestion,bloating,nausea,heartburn,weight loss,Peptic Ulcer
+loss of appetite,stomach pain,nausea,bloating,indigestion,vomiting,Gastritis
+indigestion,nausea,shoulder pain,abdominal pain,vomiting,pain after eating,Gallstones
+stomach pain,gas,cramps,diarrhea,bloating,nausea,Lactose Intolerance
+bloating,burning stomach pain,weight loss,indigestion,heartburn,nausea,Peptic Ulcer
+diarrhea,cramps,bloating,nausea,stomach pain,gas,Lactose Intolerance
+heartburn,nausea,weight loss,indigestion,bloating,burning stomach pain,Peptic Ulcer
+nausea,vomiting,rapid pulse,fever,upper abdominal pain,swollen abdomen,Pancreatitis
+loss of appetite,nausea,vomiting blood,persistent pain,indigestion,unexplained weight loss,Stomach Cancer
+nausea,gas,bloating,diarrhea,stomach pain,cramps,Lactose Intolerance
+bitter taste,trouble swallowing,dry cough,regurgitation,chest pain,heartburn,Acid Reflux
+heartburn,burning stomach pain,nausea,bloating,weight loss,indigestion,Peptic Ulcer
+unexplained weight loss,nausea,indigestion,loss of appetite,persistent pain,vomiting blood,Stomach Cancer
+rapid pulse,vomiting,swollen abdomen,nausea,fever,upper abdominal pain,Pancreatitis
+vomiting,indigestion,shoulder pain,nausea,abdominal pain,pain after eating,Gallstones
+nausea,indigestion,vomiting,abdominal pain,pain after eating,shoulder pain,Gallstones
+nausea,unexplained weight loss,persistent pain,vomiting blood,loss of appetite,indigestion,Stomach Cancer
+dehydration,stomach cramps,nausea,diarrhea,fever,vomiting,Food Poisoning
+bloating,nausea,indigestion,vomiting,stomach pain,loss of appetite,Gastritis
+stomach cramps,vomiting,dehydration,fever,nausea,diarrhea,Food Poisoning
+straining,hard stools,abdominal pain,incomplete evacuation,infrequent stools,bloating,Constipation
+loss of appetite,stomach pain,nausea,vomiting,indigestion,bloating,Gastritis
+gas,nausea,stomach pain,bloating,diarrhea,cramps,Lactose Intolerance
+nausea,indigestion,unexplained weight loss,vomiting blood,loss of appetite,persistent pain,Stomach Cancer
+stomach pain,nausea,indigestion,bloating,loss of appetite,vomiting,Gastritis
+loss of appetite,indigestion,bloating,vomiting,stomach pain,nausea,Gastritis
+fever,nausea,dehydration,vomiting,diarrhea,stomach cramps,Food Poisoning
+mucus in stool,bloating,diarrhea,abdominal pain,constipation,gas,Irritable Bowel Syndrome
+gas,bloating,nausea,stomach pain,diarrhea,cramps,Lactose Intolerance
+fever,vomiting,nausea,rapid pulse,swollen abdomen,upper abdominal pain,Pancreatitis
+loss of appetite,vomiting,stomach pain,indigestion,nausea,bloating,Gastritis
+nausea,fever,rapid pulse,upper abdominal pain,swollen abdomen,vomiting,Pancreatitis
+nausea,bloating,loss of appetite,vomiting,indigestion,stomach pain,Gastritis
+indigestion,bloating,stomach pain,loss of appetite,vomiting,nausea,Gastritis
+pain after eating,nausea,vomiting,abdominal pain,indigestion,shoulder pain,Gallstones
+pain after eating,nausea,abdominal pain,vomiting,indigestion,shoulder pain,Gallstones
+burning stomach pain,heartburn,indigestion,weight loss,bloating,nausea,Peptic Ulcer
+bitter taste,trouble swallowing,chest pain,regurgitation,dry cough,heartburn,Acid Reflux
+nausea,diarrhea,vomiting,dehydration,stomach cramps,fever,Food Poisoning
+incomplete evacuation,bloating,hard stools,abdominal pain,infrequent stools,straining,Constipation
+nausea,unexplained weight loss,loss of appetite,indigestion,persistent pain,vomiting blood,Stomach Cancer
+hard stools,infrequent stools,bloating,abdominal pain,incomplete evacuation,straining,Constipation
+incomplete evacuation,infrequent stools,hard stools,bloating,abdominal pain,straining,Constipation
+unexplained weight loss,loss of appetite,indigestion,nausea,persistent pain,vomiting blood,Stomach Cancer
+indigestion,loss of appetite,persistent pain,unexplained weight loss,vomiting blood,nausea,Stomach Cancer
+unexplained weight loss,indigestion,nausea,loss of appetite,vomiting blood,persistent pain,Stomach Cancer
+nausea,diarrhea,cramps,gas,stomach pain,bloating,Lactose Intolerance
+indigestion,bloating,nausea,burning stomach pain,weight loss,heartburn,Peptic Ulcer
+vomiting,indigestion,pain after eating,abdominal pain,shoulder pain,nausea,Gallstones
+indigestion,unexplained weight loss,persistent pain,loss of appetite,nausea,vomiting blood,Stomach Cancer
+weight loss,nausea,bloating,burning stomach pain,heartburn,indigestion,Peptic Ulcer
+weight loss,burning stomach pain,heartburn,nausea,indigestion,bloating,Peptic Ulcer
+bloating,infrequent stools,straining,hard stools,incomplete evacuation,abdominal pain,Constipation
+bloating,weight loss,heartburn,indigestion,nausea,burning stomach pain,Peptic Ulcer
+bloating,constipation,gas,diarrhea,mucus in stool,abdominal pain,Irritable Bowel Syndrome
+rapid pulse,swollen abdomen,upper abdominal pain,fever,vomiting,nausea,Pancreatitis
+dry cough,trouble swallowing,regurgitation,heartburn,bitter taste,chest pain,Acid Reflux
+persistent pain,vomiting blood,indigestion,unexplained weight loss,nausea,loss of appetite,Stomach Cancer
+diarrhea,stomach pain,nausea,cramps,bloating,gas,Lactose Intolerance
+nausea,indigestion,loss of appetite,persistent pain,vomiting blood,unexplained weight loss,Stomach Cancer
+bloating,diarrhea,abdominal pain,constipation,mucus in stool,gas,Irritable Bowel Syndrome
+rapid pulse,upper abdominal pain,vomiting,nausea,fever,swollen abdomen,Pancreatitis
+swollen abdomen,vomiting,nausea,rapid pulse,upper abdominal pain,fever,Pancreatitis
+hard stools,straining,incomplete evacuation,abdominal pain,bloating,infrequent stools,Constipation
+bloating,gas,stomach pain,nausea,diarrhea,cramps,Lactose Intolerance
+heartburn,indigestion,nausea,weight loss,burning stomach pain,bloating,Peptic Ulcer
+unexplained weight loss,loss of appetite,nausea,persistent pain,vomiting blood,indigestion,Stomach Cancer
+dehydration,diarrhea,stomach cramps,vomiting,fever,nausea,Food Poisoning
+bloating,indigestion,loss of appetite,vomiting,nausea,stomach pain,Gastritis
+unexplained weight loss,indigestion,vomiting blood,persistent pain,loss of appetite,nausea,Stomach Cancer
+upper abdominal pain,vomiting,swollen abdomen,nausea,fever,rapid pulse,Pancreatitis
+vomiting blood,indigestion,loss of appetite,unexplained weight loss,nausea,persistent pain,Stomach Cancer
+diarrhea,cramps,gas,nausea,stomach pain,bloating,Lactose Intolerance
+fever,nausea,vomiting,swollen abdomen,upper abdominal pain,rapid pulse,Pancreatitis
+nausea,burning stomach pain,indigestion,bloating,weight loss,heartburn,Peptic Ulcer
+weight loss,burning stomach pain,heartburn,nausea,indigestion,bloating,Peptic Ulcer
+vomiting,pain after eating,nausea,indigestion,shoulder pain,abdominal pain,Gallstones
+nausea,gas,stomach pain,bloating,diarrhea,cramps,Lactose Intolerance
+swollen abdomen,nausea,vomiting,upper abdominal pain,rapid pulse,fever,Pancreatitis
+bloating,weight loss,indigestion,burning stomach pain,nausea,heartburn,Peptic Ulcer
+bloating,constipation,abdominal pain,gas,diarrhea,mucus in stool,Irritable Bowel Syndrome
+vomiting,nausea,upper abdominal pain,fever,rapid pulse,swollen abdomen,Pancreatitis
+upper abdominal pain,fever,vomiting,swollen abdomen,nausea,rapid pulse,Pancreatitis
+burning stomach pain,nausea,bloating,weight loss,indigestion,heartburn,Peptic Ulcer
+loss of appetite,indigestion,nausea,bloating,vomiting,stomach pain,Gastritis
+diarrhea,nausea,vomiting,fever,stomach cramps,dehydration,Food Poisoning
+nausea,indigestion,bloating,stomach pain,loss of appetite,vomiting,Gastritis
+loss of appetite,indigestion,stomach pain,bloating,nausea,vomiting,Gastritis
+stomach pain,indigestion,vomiting,bloating,nausea,loss of appetite,Gastritis
+bloating,gas,abdominal pain,mucus in stool,constipation,diarrhea,Irritable Bowel Syndrome
+dry cough,trouble swallowing,bitter taste,chest pain,heartburn,regurgitation,Acid Reflux
+weight loss,burning stomach pain,heartburn,bloating,indigestion,nausea,Peptic Ulcer
+burning stomach pain,heartburn,bloating,indigestion,weight loss,nausea,Peptic Ulcer
+loss of appetite,vomiting,bloating,indigestion,stomach pain,nausea,Gastritis
+upper abdominal pain,vomiting,swollen abdomen,nausea,rapid pulse,fever,Pancreatitis
+nausea,swollen abdomen,upper abdominal pain,fever,vomiting,rapid pulse,Pancreatitis
+stomach pain,indigestion,vomiting,nausea,loss of appetite,bloating,Gastritis
+incomplete evacuation,abdominal pain,straining,bloating,infrequent stools,hard stools,Constipation
+indigestion,burning stomach pain,nausea,bloating,weight loss,heartburn,Peptic Ulcer
+gas,bloating,mucus in stool,abdominal pain,diarrhea,constipation,Irritable Bowel Syndrome
+burning stomach pain,nausea,indigestion,heartburn,weight loss,bloating,Peptic Ulcer
+nausea,vomiting,fever,diarrhea,dehydration,stomach cramps,Food Poisoning
+swollen abdomen,vomiting,upper abdominal pain,rapid pulse,fever,nausea,Pancreatitis
+dry cough,regurgitation,chest pain,heartburn,bitter taste,trouble swallowing,Acid Reflux
+straining,infrequent stools,hard stools,abdominal pain,incomplete evacuation,bloating,Constipation
+pain after eating,nausea,indigestion,abdominal pain,shoulder pain,vomiting,Gallstones
+vomiting,bloating,nausea,loss of appetite,stomach pain,indigestion,Gastritis
+swollen abdomen,rapid pulse,upper abdominal pain,vomiting,fever,nausea,Pancreatitis
+bloating,constipation,abdominal pain,mucus in stool,gas,diarrhea,Irritable Bowel Syndrome
+nausea,bloating,gas,diarrhea,cramps,stomach pain,Lactose Intolerance
+nausea,fever,upper abdominal pain,vomiting,swollen abdomen,rapid pulse,Pancreatitis
+trouble swallowing,chest pain,bitter taste,dry cough,heartburn,regurgitation,Acid Reflux
+fever,swollen abdomen,rapid pulse,nausea,vomiting,upper abdominal pain,Pancreatitis
+loss of appetite,vomiting blood,nausea,indigestion,unexplained weight loss,persistent pain,Stomach Cancer
+indigestion,shoulder pain,abdominal pain,nausea,vomiting,pain after eating,Gallstones
+bloating,weight loss,nausea,heartburn,indigestion,burning stomach pain,Peptic Ulcer
+fever,upper abdominal pain,swollen abdomen,vomiting,nausea,rapid pulse,Pancreatitis
+diarrhea,nausea,cramps,gas,stomach pain,bloating,Lactose Intolerance
+burning stomach pain,weight loss,nausea,indigestion,bloating,heartburn,Peptic Ulcer
+stomach cramps,vomiting,fever,diarrhea,dehydration,nausea,Food Poisoning
+loss of appetite,nausea,persistent pain,indigestion,vomiting blood,unexplained weight loss,Stomach Cancer
+constipation,abdominal pain,bloating,diarrhea,gas,mucus in stool,Irritable Bowel Syndrome
+stomach cramps,fever,vomiting,diarrhea,nausea,dehydration,Food Poisoning
+indigestion,bloating,burning stomach pain,nausea,weight loss,heartburn,Peptic Ulcer
+straining,abdominal pain,incomplete evacuation,infrequent stools,bloating,hard stools,Constipation
+heartburn,chest pain,bitter taste,trouble swallowing,regurgitation,dry cough,Acid Reflux
+nausea,indigestion,bloating,weight loss,heartburn,burning stomach pain,Peptic Ulcer
+nausea,fever,diarrhea,vomiting,stomach cramps,dehydration,Food Poisoning
+swollen abdomen,upper abdominal pain,fever,rapid pulse,nausea,vomiting,Pancreatitis
+gas,bloating,diarrhea,nausea,stomach pain,cramps,Lactose Intolerance
+constipation,gas,abdominal pain,mucus in stool,bloating,diarrhea,Irritable Bowel Syndrome
+swollen abdomen,upper abdominal pain,fever,vomiting,nausea,rapid pulse,Pancreatitis
+burning stomach pain,heartburn,bloating,nausea,indigestion,weight loss,Peptic Ulcer
+diarrhea,bloating,gas,constipation,abdominal pain,mucus in stool,Irritable Bowel Syndrome
+incomplete evacuation,infrequent stools,bloating,abdominal pain,hard stools,straining,Constipation
+trouble swallowing,heartburn,regurgitation,bitter taste,dry cough,chest pain,Acid Reflux
+unexplained weight loss,persistent pain,vomiting blood,indigestion,loss of appetite,nausea,Stomach Cancer
+fever,stomach cramps,vomiting,dehydration,nausea,diarrhea,Food Poisoning
+fever,swollen abdomen,vomiting,rapid pulse,nausea,upper abdominal pain,Pancreatitis
+stomach cramps,fever,diarrhea,dehydration,vomiting,nausea,Food Poisoning
+constipation,diarrhea,bloating,abdominal pain,gas,mucus in stool,Irritable Bowel Syndrome
+stomach cramps,fever,vomiting,diarrhea,dehydration,nausea,Food Poisoning
+nausea,swollen abdomen,fever,upper abdominal pain,rapid pulse,vomiting,Pancreatitis
+infrequent stools,abdominal pain,straining,bloating,incomplete evacuation,hard stools,Constipation
+bloating,indigestion,nausea,vomiting,loss of appetite,stomach pain,Gastritis
+loss of appetite,indigestion,persistent pain,nausea,vomiting blood,unexplained weight loss,Stomach Cancer
+loss of appetite,vomiting,nausea,bloating,indigestion,stomach pain,Gastritis
+nausea,heartburn,indigestion,bloating,burning stomach pain,weight loss,Peptic Ulcer
+fever,vomiting,nausea,swollen abdomen,rapid pulse,upper abdominal pain,Pancreatitis
+swollen abdomen,rapid pulse,nausea,fever,vomiting,upper abdominal pain,Pancreatitis
+heartburn,weight loss,nausea,bloating,indigestion,burning stomach pain,Peptic Ulcer
+mucus in stool,constipation,bloating,gas,diarrhea,abdominal pain,Irritable Bowel Syndrome
+fever,vomiting,upper abdominal pain,swollen abdomen,rapid pulse,nausea,Pancreatitis
+pain after eating,shoulder pain,nausea,vomiting,abdominal pain,indigestion,Gallstones
+cramps,gas,bloating,stomach pain,diarrhea,nausea,Lactose Intolerance
+infrequent stools,bloating,incomplete evacuation,straining,abdominal pain,hard stools,Constipation
+vomiting blood,unexplained weight loss,indigestion,loss of appetite,persistent pain,nausea,Stomach Cancer
+trouble swallowing,bitter taste,chest pain,regurgitation,heartburn,dry cough,Acid Reflux
+dry cough,heartburn,trouble swallowing,regurgitation,chest pain,bitter taste,Acid Reflux
+diarrhea,gas,bloating,nausea,cramps,stomach pain,Lactose Intolerance
+dry cough,trouble swallowing,heartburn,chest pain,bitter taste,regurgitation,Acid Reflux
+abdominal pain,shoulder pain,indigestion,pain after eating,vomiting,nausea,Gallstones
+loss of appetite,persistent pain,nausea,indigestion,vomiting blood,unexplained weight loss,Stomach Cancer
+diarrhea,nausea,vomiting,stomach cramps,fever,dehydration,Food Poisoning
+abdominal pain,incomplete evacuation,infrequent stools,bloating,straining,hard stools,Constipation
+indigestion,abdominal pain,nausea,vomiting,shoulder pain,pain after eating,Gallstones
+persistent pain,loss of appetite,vomiting blood,nausea,unexplained weight loss,indigestion,Stomach Cancer
+nausea,stomach pain,diarrhea,gas,cramps,bloating,Lactose Intolerance
+indigestion,weight loss,burning stomach pain,bloating,nausea,heartburn,Peptic Ulcer
+loss of appetite,unexplained weight loss,nausea,indigestion,vomiting blood,persistent pain,Stomach Cancer
+pain after eating,indigestion,shoulder pain,vomiting,abdominal pain,nausea,Gallstones
+abdominal pain,infrequent stools,bloating,incomplete evacuation,hard stools,straining,Constipation
+vomiting,fever,upper abdominal pain,swollen abdomen,nausea,rapid pulse,Pancreatitis
+stomach pain,vomiting,indigestion,bloating,nausea,loss of appetite,Gastritis
+diarrhea,mucus in stool,gas,abdominal pain,constipation,bloating,Irritable Bowel Syndrome
+nausea,dehydration,diarrhea,fever,vomiting,stomach cramps,Food Poisoning
+mucus in stool,gas,abdominal pain,bloating,diarrhea,constipation,Irritable Bowel Syndrome
+nausea,stomach cramps,vomiting,dehydration,fever,diarrhea,Food Poisoning
+upper abdominal pain,nausea,rapid pulse,vomiting,swollen abdomen,fever,Pancreatitis
+upper abdominal pain,swollen abdomen,fever,rapid pulse,vomiting,nausea,Pancreatitis
+shoulder pain,indigestion,abdominal pain,nausea,vomiting,pain after eating,Gallstones
+constipation,mucus in stool,gas,bloating,abdominal pain,diarrhea,Irritable Bowel Syndrome
+indigestion,loss of appetite,persistent pain,vomiting blood,unexplained weight loss,nausea,Stomach Cancer
+mucus in stool,abdominal pain,diarrhea,bloating,constipation,gas,Irritable Bowel Syndrome
+gas,stomach pain,bloating,diarrhea,nausea,cramps,Lactose Intolerance
+heartburn,bitter taste,chest pain,trouble swallowing,dry cough,regurgitation,Acid Reflux
+upper abdominal pain,fever,swollen abdomen,vomiting,rapid pulse,nausea,Pancreatitis
+vomiting blood,unexplained weight loss,nausea,loss of appetite,indigestion,persistent pain,Stomach Cancer
+infrequent stools,straining,hard stools,bloating,abdominal pain,incomplete evacuation,Constipation
+nausea,swollen abdomen,upper abdominal pain,rapid pulse,vomiting,fever,Pancreatitis
+constipation,abdominal pain,mucus in stool,diarrhea,gas,bloating,Irritable Bowel Syndrome
+diarrhea,dehydration,fever,nausea,vomiting,stomach cramps,Food Poisoning
+bloating,constipation,diarrhea,mucus in stool,gas,abdominal pain,Irritable Bowel Syndrome
+bloating,nausea,burning stomach pain,weight loss,heartburn,indigestion,Peptic Ulcer
+abdominal pain,hard stools,infrequent stools,bloating,incomplete evacuation,straining,Constipation
+rapid pulse,swollen abdomen,fever,vomiting,nausea,upper abdominal pain,Pancreatitis
+upper abdominal pain,swollen abdomen,nausea,fever,vomiting,rapid pulse,Pancreatitis
+vomiting,diarrhea,stomach cramps,nausea,fever,dehydration,Food Poisoning
+bloating,gas,diarrhea,abdominal pain,constipation,mucus in stool,Irritable Bowel Syndrome
+abdominal pain,infrequent stools,incomplete evacuation,straining,bloating,hard stools,Constipation
+vomiting,pain after eating,abdominal pain,nausea,indigestion,shoulder pain,Gallstones
+bloating,vomiting,indigestion,stomach pain,loss of appetite,nausea,Gastritis
+indigestion,bloating,vomiting,stomach pain,nausea,loss of appetite,Gastritis
+regurgitation,heartburn,chest pain,bitter taste,trouble swallowing,dry cough,Acid Reflux
+weight loss,burning stomach pain,indigestion,nausea,bloating,heartburn,Peptic Ulcer
+indigestion,nausea,unexplained weight loss,loss of appetite,persistent pain,vomiting blood,Stomach Cancer
+abdominal pain,vomiting,pain after eating,nausea,shoulder pain,indigestion,Gallstones
+unexplained weight loss,loss of appetite,indigestion,vomiting blood,nausea,persistent pain,Stomach Cancer
+bloating,indigestion,stomach pain,nausea,loss of appetite,vomiting,Gastritis
+stomach cramps,nausea,vomiting,dehydration,fever,diarrhea,Food Poisoning
+stomach pain,bloating,cramps,diarrhea,nausea,gas,Lactose Intolerance
+loss of appetite,vomiting blood,unexplained weight loss,indigestion,persistent pain,nausea,Stomach Cancer
+unexplained weight loss,vomiting blood,nausea,indigestion,loss of appetite,persistent pain,Stomach Cancer
+burning stomach pain,indigestion,nausea,heartburn,weight loss,bloating,Peptic Ulcer
+diarrhea,fever,vomiting,stomach cramps,dehydration,nausea,Food Poisoning
+vomiting,fever,nausea,stomach cramps,diarrhea,dehydration,Food Poisoning
+bloating,constipation,abdominal pain,mucus in stool,diarrhea,gas,Irritable Bowel Syndrome
+chest pain,heartburn,trouble swallowing,regurgitation,dry cough,bitter taste,Acid Reflux
+weight loss,burning stomach pain,nausea,heartburn,indigestion,bloating,Peptic Ulcer
+nausea,indigestion,vomiting,shoulder pain,abdominal pain,pain after eating,Gallstones
+heartburn,nausea,weight loss,burning stomach pain,indigestion,bloating,Peptic Ulcer
+bloating,loss of appetite,nausea,vomiting,stomach pain,indigestion,Gastritis
+nausea,pain after eating,indigestion,shoulder pain,abdominal pain,vomiting,Gallstones
+nausea,vomiting blood,indigestion,persistent pain,loss of appetite,unexplained weight loss,Stomach Cancer
+weight loss,heartburn,nausea,bloating,burning stomach pain,indigestion,Peptic Ulcer
+diarrhea,gas,mucus in stool,constipation,abdominal pain,bloating,Irritable Bowel Syndrome
+vomiting,fever,dehydration,diarrhea,nausea,stomach cramps,Food Poisoning
+diarrhea,gas,bloating,constipation,abdominal pain,mucus in stool,Irritable Bowel Syndrome
+vomiting,swollen abdomen,nausea,upper abdominal pain,rapid pulse,fever,Pancreatitis
+burning stomach pain,weight loss,nausea,bloating,indigestion,heartburn,Peptic Ulcer
+vomiting,indigestion,loss of appetite,stomach pain,nausea,bloating,Gastritis
+indigestion,vomiting,stomach pain,nausea,bloating,loss of appetite,Gastritis
+indigestion,nausea,abdominal pain,pain after eating,shoulder pain,vomiting,Gallstones
+dry cough,trouble swallowing,heartburn,regurgitation,chest pain,bitter taste,Acid Reflux
+unexplained weight loss,loss of appetite,vomiting blood,persistent pain,indigestion,nausea,Stomach Cancer
+bloating,cramps,stomach pain,gas,diarrhea,nausea,Lactose Intolerance
+chest pain,bitter taste,regurgitation,heartburn,dry cough,trouble swallowing,Acid Reflux
+diarrhea,stomach cramps,vomiting,dehydration,nausea,fever,Food Poisoning
+stomach pain,loss of appetite,indigestion,bloating,nausea,vomiting,Gastritis
+diarrhea,stomach pain,bloating,gas,nausea,cramps,Lactose Intolerance
+stomach pain,cramps,nausea,gas,diarrhea,bloating,Lactose Intolerance
+stomach pain,vomiting,loss of appetite,nausea,bloating,indigestion,Gastritis
+hard stools,abdominal pain,straining,incomplete evacuation,bloating,infrequent stools,Constipation
+bitter taste,trouble swallowing,heartburn,chest pain,dry cough,regurgitation,Acid Reflux
+heartburn,nausea,indigestion,weight loss,bloating,burning stomach pain,Peptic Ulcer
+gas,bloating,abdominal pain,mucus in stool,constipation,diarrhea,Irritable Bowel Syndrome
+indigestion,heartburn,burning stomach pain,nausea,bloating,weight loss,Peptic Ulcer
+diarrhea,bloating,mucus in stool,abdominal pain,gas,constipation,Irritable Bowel Syndrome
+shoulder pain,indigestion,abdominal pain,vomiting,pain after eating,nausea,Gallstones
+nausea,stomach pain,gas,cramps,diarrhea,bloating,Lactose Intolerance
+nausea,heartburn,bloating,burning stomach pain,indigestion,weight loss,Peptic Ulcer
+diarrhea,constipation,gas,abdominal pain,bloating,mucus in stool,Irritable Bowel Syndrome
+swollen abdomen,vomiting,rapid pulse,upper abdominal pain,nausea,fever,Pancreatitis
+nausea,dehydration,diarrhea,vomiting,fever,stomach cramps,Food Poisoning
+abdominal pain,incomplete evacuation,infrequent stools,straining,hard stools,bloating,Constipation
+heartburn,regurgitation,trouble swallowing,chest pain,bitter taste,dry cough,Acid Reflux
+bloating,stomach pain,nausea,cramps,gas,diarrhea,Lactose Intolerance
+diarrhea,bloating,cramps,stomach pain,nausea,gas,Lactose Intolerance
+bloating,vomiting,indigestion,stomach pain,loss of appetite,nausea,Gastritis
+vomiting,pain after eating,shoulder pain,nausea,abdominal pain,indigestion,Gallstones
+stomach pain,vomiting,nausea,bloating,loss of appetite,indigestion,Gastritis
+rapid pulse,upper abdominal pain,nausea,vomiting,fever,swollen abdomen,Pancreatitis
+heartburn,nausea,indigestion,bloating,burning stomach pain,weight loss,Peptic Ulcer
+vomiting,dehydration,nausea,diarrhea,fever,stomach cramps,Food Poisoning
+persistent pain,vomiting blood,indigestion,loss of appetite,unexplained weight loss,nausea,Stomach Cancer
+heartburn,bloating,indigestion,weight loss,burning stomach pain,nausea,Peptic Ulcer
+abdominal pain,pain after eating,vomiting,nausea,indigestion,shoulder pain,Gallstones
+gas,abdominal pain,constipation,bloating,mucus in stool,diarrhea,Irritable Bowel Syndrome
+vomiting,shoulder pain,pain after eating,abdominal pain,nausea,indigestion,Gallstones
+stomach cramps,vomiting,diarrhea,dehydration,fever,nausea,Food Poisoning
+swollen abdomen,upper abdominal pain,fever,nausea,vomiting,rapid pulse,Pancreatitis
+nausea,bloating,heartburn,indigestion,weight loss,burning stomach pain,Peptic Ulcer
+unexplained weight loss,vomiting blood,persistent pain,indigestion,loss of appetite,nausea,Stomach Cancer
+nausea,loss of appetite,indigestion,persistent pain,vomiting blood,unexplained weight loss,Stomach Cancer
+diarrhea,fever,dehydration,vomiting,nausea,stomach cramps,Food Poisoning
+indigestion,stomach pain,vomiting,bloating,loss of appetite,nausea,Gastritis
+vomiting,indigestion,abdominal pain,shoulder pain,nausea,pain after eating,Gallstones
+nausea,cramps,stomach pain,diarrhea,gas,bloating,Lactose Intolerance
+mucus in stool,abdominal pain,bloating,constipation,diarrhea,gas,Irritable Bowel Syndrome
+regurgitation,bitter taste,dry cough,trouble swallowing,chest pain,heartburn,Acid Reflux
+fever,stomach cramps,diarrhea,nausea,dehydration,vomiting,Food Poisoning
+vomiting,indigestion,nausea,bloating,stomach pain,loss of appetite,Gastritis
+stomach cramps,nausea,dehydration,vomiting,diarrhea,fever,Food Poisoning
+vomiting,dehydration,fever,stomach cramps,nausea,diarrhea,Food Poisoning
+diarrhea,fever,vomiting,nausea,dehydration,stomach cramps,Food Poisoning
+nausea,dehydration,vomiting,stomach cramps,fever,diarrhea,Food Poisoning
+hard stools,incomplete evacuation,straining,bloating,infrequent stools,abdominal pain,Constipation
+nausea,diarrhea,stomach cramps,vomiting,fever,dehydration,Food Poisoning
+nausea,persistent pain,unexplained weight loss,vomiting blood,indigestion,loss of appetite,Stomach Cancer
+abdominal pain,straining,infrequent stools,incomplete evacuation,hard stools,bloating,Constipation
+bloating,nausea,heartburn,indigestion,weight loss,burning stomach pain,Peptic Ulcer
+persistent pain,nausea,unexplained weight loss,loss of appetite,indigestion,vomiting blood,Stomach Cancer
+abdominal pain,nausea,indigestion,vomiting,shoulder pain,pain after eating,Gallstones
+upper abdominal pain,vomiting,swollen abdomen,rapid pulse,fever,nausea,Pancreatitis
+shoulder pain,abdominal pain,indigestion,vomiting,pain after eating,nausea,Gallstones
+infrequent stools,abdominal pain,straining,bloating,hard stools,incomplete evacuation,Constipation
+weight loss,indigestion,bloating,nausea,heartburn,burning stomach pain,Peptic Ulcer
+heartburn,dry cough,bitter taste,regurgitation,trouble swallowing,chest pain,Acid Reflux
+upper abdominal pain,swollen abdomen,rapid pulse,fever,nausea,vomiting,Pancreatitis
+persistent pain,indigestion,vomiting blood,loss of appetite,nausea,unexplained weight loss,Stomach Cancer
+gas,abdominal pain,mucus in stool,bloating,constipation,diarrhea,Irritable Bowel Syndrome
+nausea,stomach cramps,diarrhea,vomiting,fever,dehydration,Food Poisoning
+unexplained weight loss,persistent pain,indigestion,loss of appetite,vomiting blood,nausea,Stomach Cancer
+nausea,vomiting,fever,diarrhea,stomach cramps,dehydration,Food Poisoning
+stomach cramps,vomiting,diarrhea,fever,dehydration,nausea,Food Poisoning
+bloating,cramps,stomach pain,gas,diarrhea,nausea,Lactose Intolerance
+abdominal pain,bloating,constipation,gas,diarrhea,mucus in stool,Irritable Bowel Syndrome
+mucus in stool,constipation,abdominal pain,gas,diarrhea,bloating,Irritable Bowel Syndrome
+loss of appetite,stomach pain,vomiting,nausea,indigestion,bloating,Gastritis
+infrequent stools,incomplete evacuation,hard stools,bloating,abdominal pain,straining,Constipation
+vomiting,nausea,indigestion,loss of appetite,stomach pain,bloating,Gastritis
+rapid pulse,vomiting,upper abdominal pain,swollen abdomen,fever,nausea,Pancreatitis
+nausea,shoulder pain,abdominal pain,vomiting,indigestion,pain after eating,Gallstones
+bloating,indigestion,nausea,stomach pain,vomiting,loss of appetite,Gastritis
+abdominal pain,gas,bloating,mucus in stool,diarrhea,constipation,Irritable Bowel Syndrome
+chest pain,trouble swallowing,dry cough,regurgitation,heartburn,bitter taste,Acid Reflux
+heartburn,burning stomach pain,weight loss,nausea,bloating,indigestion,Peptic Ulcer
+vomiting,nausea,loss of appetite,stomach pain,indigestion,bloating,Gastritis
+fever,nausea,dehydration,stomach cramps,vomiting,diarrhea,Food Poisoning
+constipation,bloating,mucus in stool,gas,diarrhea,abdominal pain,Irritable Bowel Syndrome
+fever,swollen abdomen,nausea,vomiting,rapid pulse,upper abdominal pain,Pancreatitis
+trouble swallowing,bitter taste,heartburn,dry cough,chest pain,regurgitation,Acid Reflux
+stomach pain,nausea,bloating,diarrhea,gas,cramps,Lactose Intolerance
+gas,nausea,diarrhea,cramps,stomach pain,bloating,Lactose Intolerance
+rapid pulse,fever,upper abdominal pain,nausea,swollen abdomen,vomiting,Pancreatitis
+dehydration,nausea,vomiting,stomach cramps,fever,diarrhea,Food Poisoning
+loss of appetite,indigestion,unexplained weight loss,nausea,persistent pain,vomiting blood,Stomach Cancer
+pain after eating,abdominal pain,nausea,indigestion,shoulder pain,vomiting,Gallstones
+bloating,weight loss,indigestion,heartburn,nausea,burning stomach pain,Peptic Ulcer
+constipation,gas,diarrhea,bloating,abdominal pain,mucus in stool,Irritable Bowel Syndrome
+bitter taste,dry cough,chest pain,heartburn,trouble swallowing,regurgitation,Acid Reflux
+vomiting,pain after eating,nausea,abdominal pain,indigestion,shoulder pain,Gallstones
+diarrhea,stomach pain,bloating,gas,nausea,cramps,Lactose Intolerance
+indigestion,abdominal pain,nausea,pain after eating,shoulder pain,vomiting,Gallstones
+stomach cramps,fever,diarrhea,nausea,vomiting,dehydration,Food Poisoning
+indigestion,unexplained weight loss,nausea,persistent pain,vomiting blood,loss of appetite,Stomach Cancer
+straining,incomplete evacuation,infrequent stools,hard stools,bloating,abdominal pain,Constipation
+bloating,mucus in stool,abdominal pain,constipation,gas,diarrhea,Irritable Bowel Syndrome
+bloating,incomplete evacuation,abdominal pain,straining,infrequent stools,hard stools,Constipation
+bitter taste,dry cough,regurgitation,heartburn,trouble swallowing,chest pain,Acid Reflux
+vomiting blood,unexplained weight loss,nausea,loss of appetite,indigestion,persistent pain,Stomach Cancer
+diarrhea,constipation,gas,abdominal pain,bloating,mucus in stool,Irritable Bowel Syndrome
+vomiting,nausea,stomach cramps,dehydration,fever,diarrhea,Food Poisoning
+gas,mucus in stool,diarrhea,bloating,abdominal pain,constipation,Irritable Bowel Syndrome
+nausea,diarrhea,stomach pain,cramps,gas,bloating,Lactose Intolerance
+stomach pain,nausea,diarrhea,gas,cramps,bloating,Lactose Intolerance
+hard stools,straining,incomplete evacuation,abdominal pain,bloating,infrequent stools,Constipation
+bitter taste,chest pain,heartburn,dry cough,regurgitation,trouble swallowing,Acid Reflux
+nausea,rapid pulse,swollen abdomen,fever,vomiting,upper abdominal pain,Pancreatitis
+burning stomach pain,nausea,bloating,heartburn,indigestion,weight loss,Peptic Ulcer
+shoulder pain,indigestion,nausea,pain after eating,abdominal pain,vomiting,Gallstones
+incomplete evacuation,abdominal pain,hard stools,straining,bloating,infrequent stools,Constipation
+cramps,gas,diarrhea,bloating,nausea,stomach pain,Lactose Intolerance
+gas,diarrhea,bloating,nausea,cramps,stomach pain,Lactose Intolerance
+nausea,vomiting,fever,stomach cramps,diarrhea,dehydration,Food Poisoning
+loss of appetite,bloating,nausea,indigestion,stomach pain,vomiting,Gastritis
+vomiting,nausea,stomach cramps,diarrhea,dehydration,fever,Food Poisoning
+upper abdominal pain,nausea,swollen abdomen,rapid pulse,fever,vomiting,Pancreatitis
+unexplained weight loss,loss of appetite,nausea,vomiting blood,persistent pain,indigestion,Stomach Cancer
+nausea,gas,bloating,diarrhea,stomach pain,cramps,Lactose Intolerance
+burning stomach pain,heartburn,bloating,nausea,weight loss,indigestion,Peptic Ulcer
+nausea,weight loss,burning stomach pain,heartburn,indigestion,bloating,Peptic Ulcer
+loss of appetite,vomiting blood,unexplained weight loss,persistent pain,indigestion,nausea,Stomach Cancer
+nausea,indigestion,burning stomach pain,heartburn,weight loss,bloating,Peptic Ulcer
+diarrhea,abdominal pain,gas,bloating,mucus in stool,constipation,Irritable Bowel Syndrome
+indigestion,vomiting blood,loss of appetite,nausea,unexplained weight loss,persistent pain,Stomach Cancer
+bloating,hard stools,abdominal pain,straining,infrequent stools,incomplete evacuation,Constipation
+bloating,burning stomach pain,nausea,indigestion,weight loss,heartburn,Peptic Ulcer
+vomiting,swollen abdomen,rapid pulse,upper abdominal pain,nausea,fever,Pancreatitis
+vomiting blood,indigestion,nausea,persistent pain,loss of appetite,unexplained weight loss,Stomach Cancer
+upper abdominal pain,swollen abdomen,vomiting,nausea,rapid pulse,fever,Pancreatitis
+nausea,indigestion,weight loss,heartburn,burning stomach pain,bloating,Peptic Ulcer
+cramps,stomach pain,diarrhea,gas,bloating,nausea,Lactose Intolerance
+infrequent stools,bloating,abdominal pain,incomplete evacuation,hard stools,straining,Constipation
+unexplained weight loss,loss of appetite,nausea,persistent pain,indigestion,vomiting blood,Stomach Cancer
+loss of appetite,unexplained weight loss,nausea,indigestion,persistent pain,vomiting blood,Stomach Cancer
+diarrhea,bloating,constipation,abdominal pain,gas,mucus in stool,Irritable Bowel Syndrome
+regurgitation,heartburn,chest pain,bitter taste,trouble swallowing,dry cough,Acid Reflux
+heartburn,bloating,nausea,burning stomach pain,weight loss,indigestion,Peptic Ulcer
+loss of appetite,indigestion,vomiting,bloating,nausea,stomach pain,Gastritis
+vomiting,pain after eating,abdominal pain,shoulder pain,indigestion,nausea,Gallstones
+diarrhea,nausea,gas,stomach pain,cramps,bloating,Lactose Intolerance
+gas,diarrhea,stomach pain,cramps,bloating,nausea,Lactose Intolerance
+loss of appetite,vomiting,indigestion,nausea,stomach pain,bloating,Gastritis
+unexplained weight loss,persistent pain,loss of appetite,vomiting blood,indigestion,nausea,Stomach Cancer
+bloating,loss of appetite,stomach pain,indigestion,nausea,vomiting,Gastritis
+rapid pulse,nausea,fever,swollen abdomen,upper abdominal pain,vomiting,Pancreatitis
+indigestion,nausea,stomach pain,bloating,vomiting,loss of appetite,Gastritis
+nausea,stomach cramps,vomiting,fever,dehydration,diarrhea,Food Poisoning
+loss of appetite,vomiting,bloating,stomach pain,nausea,indigestion,Gastritis
+bloating,nausea,vomiting,stomach pain,indigestion,loss of appetite,Gastritis
+constipation,abdominal pain,mucus in stool,diarrhea,gas,bloating,Irritable Bowel Syndrome
+incomplete evacuation,bloating,hard stools,abdominal pain,infrequent stools,straining,Constipation
+indigestion,vomiting,nausea,pain after eating,abdominal pain,shoulder pain,Gallstones
+unexplained weight loss,vomiting blood,indigestion,persistent pain,nausea,loss of appetite,Stomach Cancer
+vomiting,upper abdominal pain,rapid pulse,nausea,fever,swollen abdomen,Pancreatitis
+nausea,bloating,stomach pain,indigestion,vomiting,loss of appetite,Gastritis
+rapid pulse,fever,vomiting,swollen abdomen,upper abdominal pain,nausea,Pancreatitis
+stomach cramps,vomiting,dehydration,diarrhea,fever,nausea,Food Poisoning
+vomiting blood,indigestion,loss of appetite,unexplained weight loss,nausea,persistent pain,Stomach Cancer
+persistent pain,vomiting blood,nausea,loss of appetite,unexplained weight loss,indigestion,Stomach Cancer
+bloating,straining,hard stools,incomplete evacuation,infrequent stools,abdominal pain,Constipation
+nausea,stomach pain,bloating,diarrhea,gas,cramps,Lactose Intolerance
+nausea,indigestion,persistent pain,loss of appetite,unexplained weight loss,vomiting blood,Stomach Cancer
+swollen abdomen,vomiting,rapid pulse,upper abdominal pain,nausea,fever,Pancreatitis
+bloating,gas,diarrhea,mucus in stool,constipation,abdominal pain,Irritable Bowel Syndrome
+vomiting,pain after eating,nausea,shoulder pain,indigestion,abdominal pain,Gallstones
+indigestion,burning stomach pain,heartburn,nausea,weight loss,bloating,Peptic Ulcer
+bloating,nausea,diarrhea,cramps,gas,stomach pain,Lactose Intolerance
+bloating,nausea,vomiting,indigestion,loss of appetite,stomach pain,Gastritis
+heartburn,trouble swallowing,bitter taste,dry cough,regurgitation,chest pain,Acid Reflux
+diarrhea,mucus in stool,constipation,abdominal pain,bloating,gas,Irritable Bowel Syndrome
+gas,diarrhea,mucus in stool,abdominal pain,constipation,bloating,Irritable Bowel Syndrome
+nausea,vomiting,shoulder pain,pain after eating,abdominal pain,indigestion,Gallstones
+nausea,dehydration,fever,stomach cramps,diarrhea,vomiting,Food Poisoning
+burning stomach pain,heartburn,weight loss,nausea,indigestion,bloating,Peptic Ulcer
+stomach pain,bloating,gas,diarrhea,nausea,cramps,Lactose Intolerance
+nausea,persistent pain,unexplained weight loss,vomiting blood,indigestion,loss of appetite,Stomach Cancer
+nausea,persistent pain,indigestion,vomiting blood,unexplained weight loss,loss of appetite,Stomach Cancer
+pain after eating,vomiting,abdominal pain,indigestion,shoulder pain,nausea,Gallstones
+dehydration,diarrhea,nausea,vomiting,fever,stomach cramps,Food Poisoning
+diarrhea,vomiting,stomach cramps,nausea,fever,dehydration,Food Poisoning
+bloating,gas,constipation,abdominal pain,mucus in stool,diarrhea,Irritable Bowel Syndrome
+nausea,shoulder pain,abdominal pain,pain after eating,vomiting,indigestion,Gallstones
+weight loss,heartburn,burning stomach pain,nausea,bloating,indigestion,Peptic Ulcer
+nausea,indigestion,vomiting blood,persistent pain,loss of appetite,unexplained weight loss,Stomach Cancer
+bloating,hard stools,incomplete evacuation,infrequent stools,abdominal pain,straining,Constipation
+infrequent stools,incomplete evacuation,straining,abdominal pain,hard stools,bloating,Constipation
+stomach pain,nausea,indigestion,vomiting,loss of appetite,bloating,Gastritis
+bloating,abdominal pain,hard stools,straining,incomplete evacuation,infrequent stools,Constipation
+gas,diarrhea,constipation,bloating,mucus in stool,abdominal pain,Irritable Bowel Syndrome
+rapid pulse,vomiting,upper abdominal pain,fever,nausea,swollen abdomen,Pancreatitis
+indigestion,stomach pain,vomiting,loss of appetite,bloating,nausea,Gastritis
+dry cough,bitter taste,heartburn,chest pain,trouble swallowing,regurgitation,Acid Reflux
+diarrhea,abdominal pain,bloating,mucus in stool,gas,constipation,Irritable Bowel Syndrome
+abdominal pain,bloating,infrequent stools,straining,incomplete evacuation,hard stools,Constipation
+trouble swallowing,bitter taste,dry cough,chest pain,heartburn,regurgitation,Acid Reflux
+abdominal pain,infrequent stools,hard stools,bloating,incomplete evacuation,straining,Constipation
+nausea,indigestion,abdominal pain,vomiting,pain after eating,shoulder pain,Gallstones
+abdominal pain,bloating,hard stools,incomplete evacuation,infrequent stools,straining,Constipation
+upper abdominal pain,rapid pulse,fever,swollen abdomen,vomiting,nausea,Pancreatitis
+upper abdominal pain,rapid pulse,vomiting,swollen abdomen,nausea,fever,Pancreatitis
+nausea,vomiting,shoulder pain,indigestion,abdominal pain,pain after eating,Gallstones
+abdominal pain,indigestion,nausea,shoulder pain,pain after eating,vomiting,Gallstones
+bloating,infrequent stools,abdominal pain,hard stools,incomplete evacuation,straining,Constipation
