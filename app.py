@@ -6,10 +6,8 @@ from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import MultiLabelBinarizer
 from sklearn.ensemble import RandomForestClassifier, VotingClassifier
 from xgboost import XGBClassifier
-from sklearn.metrics import accuracy_score, classification_report, confusion_matrix
 import seaborn as sns
 import matplotlib.pyplot as plt
-import shap
 import warnings
 warnings.filterwarnings("ignore")
 
@@ -54,8 +52,9 @@ ensemble_model.fit(X_train, y_train)
 # ======================================================
 # 3️⃣ Streamlit UI
 # ======================================================
-st.title("🧠 Stomach Disease Prediction System")
-st.markdown("### Predict stomach-related diseases and get doctor recommendations 🩺")
+st.markdown("<h1 style='text-align: center; color: #1f77b4;'>🧠 Stomach Disease Prediction System</h1>", unsafe_allow_html=True)
+st.markdown("<h4 style='text-align: center;'>An AI-powered system to predict stomach-related diseases and recommend doctors 🩺</h4>", unsafe_allow_html=True)
+st.write("---")
 
 # Sidebar info
 st.sidebar.header("🔍 About")
@@ -120,38 +119,7 @@ if st.button("🔍 Predict Disease"):
                 st.warning(f"No doctor found for {top_disease} in dataset.")
 
 # ======================================================
-# 6️⃣ Model Evaluation (Optional Visualization)
-# ======================================================
-with st.expander("📊 Model Performance"):
-    y_pred = ensemble_model.predict(X_test)
-    acc = accuracy_score(y_test, y_pred)
-    st.write(f"**Accuracy:** {acc*100:.2f}%")
-    st.text("Classification Report:")
-    st.text(classification_report(y_test, y_pred))
-
-    fig, ax = plt.subplots(figsize=(8, 6))
-    sns.heatmap(confusion_matrix(y_test, y_pred),
-                annot=True, fmt='d', cmap='YlGnBu',
-                xticklabels=ensemble_model.classes_,
-                yticklabels=ensemble_model.classes_,
-                ax=ax)
-    plt.title("Confusion Matrix")
-    st.pyplot(fig)
-
-# ======================================================
-# 7️⃣ SHAP Explainability (Optional)
-# ======================================================
-with st.expander("💡 Model Explainability (SHAP)"):
-    rf_model = ensemble_model.named_estimators_['rf']
-    explainer = shap.TreeExplainer(rf_model)
-    shap_values = explainer.shap_values(X_test)
-
-    fig, ax = plt.subplots(figsize=(10, 6))
-    shap.summary_plot(shap_values, X_test, feature_names=mlb.classes_, show=False, cmap='coolwarm')
-    st.pyplot(fig)
-
-# ======================================================
-# 8️⃣ Symptom Frequency Visualization
+# 6️⃣ Symptom Frequency Visualization
 # ======================================================
 with st.expander("📈 Symptom Frequency Analysis"):
     from collections import Counter
