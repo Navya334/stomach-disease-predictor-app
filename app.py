@@ -52,9 +52,8 @@ ensemble_model.fit(X_train, y_train)
 # ======================================================
 # 3️⃣ Streamlit UI
 # ======================================================
-st.markdown("<h1 style='text-align: center; color: #1f77b4;'>🧠 Stomach Disease Prediction System</h1>", unsafe_allow_html=True)
-st.markdown("<h4 style='text-align: center;'>An AI-powered system to predict stomach-related diseases and recommend doctors 🩺</h4>", unsafe_allow_html=True)
-st.write("---")
+st.title(" Stomach Disease Prediction System")
+st.markdown("### Predict stomach-related diseases and get doctor recommendations 🩺")
 
 # Sidebar info
 st.sidebar.header("🔍 About")
@@ -119,7 +118,7 @@ if st.button("🔍 Predict Disease"):
                 st.warning(f"No doctor found for {top_disease} in dataset.")
 
 # ======================================================
-# 6️⃣ Symptom Frequency Visualization
+# 8️⃣ Symptom Frequency Visualization
 # ======================================================
 with st.expander("📈 Symptom Frequency Analysis"):
     from collections import Counter
