@@ -1,30 +1,32 @@
+# ================================
+# 1️⃣ Import Libraries
+# ================================
 import streamlit as st
 import pandas as pd
 import numpy as np
 import joblib
 
 # ================================
-# 1️⃣ Load saved model and encoder
+# 2️⃣ Load Model, Encoder, and Doctor Dataset
 # ================================
 model = joblib.load("stomach_disease_model.pkl")
 mlb = joblib.load("symptom_encoder.pkl")
 df_doctors = pd.read_csv("doctor_dataset.csv")
 
 # ================================
-# 2️⃣ Streamlit Page Setup
+# 3️⃣ Streamlit Page Setup
 # ================================
 st.set_page_config(page_title="Stomach Disease Prediction", layout="centered")
 st.title("🧠 Stomach Disease Prediction System")
 st.write("""
 This system predicts possible stomach-related diseases based on your entered symptoms
-and recommends the most suitable doctor.
+and recommends the most suitable doctor for consultation.
 """)
 
 # ================================
-# 3️⃣ User Input
+# 4️⃣ User Input
 # ================================
 st.subheader("Select Your Symptoms (Max 6)")
-
 selected_symptoms = st.multiselect(
     "Choose symptoms you are experiencing:",
     options=sorted(mlb.classes_),
@@ -32,21 +34,21 @@ selected_symptoms = st.multiselect(
 )
 
 # ================================
-# 4️⃣ Check symptom limit and conditionally show button
+# 5️⃣ Check symptom limit and disable Predict button
 # ================================
+disable_predict = False
 if len(selected_symptoms) > 6:
     st.error("🚫 You have exceeded the limit! Please select up to 6 symptoms only.")
-    show_button = False
+    disable_predict = True
 elif len(selected_symptoms) == 0:
     st.warning("⚠️ Please select at least one symptom to proceed.")
-    show_button = False
-else:
-    show_button = True
+    disable_predict = True
 
 # ================================
-# 5️⃣ Prediction Button (only show if valid)
+# 6️⃣ Prediction Button
 # ================================
-if show_button and st.button("🔍 Predict Disease"):
+if st.button("🔍 Predict Disease", disabled=disable_predict):
+
     # Encode input
     input_encoded = mlb.transform([selected_symptoms])
 
@@ -82,7 +84,7 @@ if show_button and st.button("🔍 Predict Disease"):
     st.info(f"🔹 Entered Symptoms: {', '.join(selected_symptoms)}")
 
 # ================================
-# 6️⃣ Footer
+# 7️⃣ Footer
 # ================================
 st.markdown("""
 ---
