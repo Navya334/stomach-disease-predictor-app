@@ -3,91 +3,87 @@ import pandas as pd
 import numpy as np
 import joblib
 
-# ======================================================
-# 1️⃣ Load Saved Model and Encoder
-# ======================================================
+# ================================
+# 1️⃣ Load saved model and encoder
+# ================================
 model = joblib.load("stomach_disease_model.pkl")
 mlb = joblib.load("symptom_encoder.pkl")
 df_doctors = pd.read_csv("doctor_dataset.csv")
 
-# ======================================================
-# 2️⃣ Streamlit Page Configuration
-# ======================================================
-st.set_page_config(page_title="Stomach Disease Prediction System", layout="centered")
-
+# ================================
+# 2️⃣ Streamlit Page Setup
+# ================================
+st.set_page_config(page_title="Stomach Disease Prediction", layout="centered")
 st.title("🧠 Stomach Disease Prediction System")
 st.write("""
 This system predicts possible stomach-related diseases based on your entered symptoms
-and recommends the most suitable doctor for consultation.
+and recommends the most suitable doctor.
 """)
 
-# ======================================================
-# 3️⃣ User Input: Select Symptoms (Max = 6)
-# ======================================================
-st.subheader("Enter Your Symptoms")
-st.caption("⚠️ You can select **up to 6 symptoms** only.")
+# ================================
+# 3️⃣ User Input
+# ================================
+st.subheader("Select Your Symptoms (Max 6)")
 
 selected_symptoms = st.multiselect(
-    "Select symptoms you are experiencing:",
+    "Choose symptoms you are experiencing:",
     options=sorted(mlb.classes_),
-    help="Choose up to 6 symptoms that best match your condition."
+    help="You can select up to 6 symptoms only."
 )
 
-# ======================================================
-# 4️⃣ Predict Button Logic
-# ======================================================
-# Enforce symptom limit
+# ================================
+# 4️⃣ Check symptom limit and conditionally show button
+# ================================
 if len(selected_symptoms) > 6:
-    st.error("🚫 You have selected more than 6 symptoms. Please remove some to continue.")
-    predict_disabled = True
+    st.error("🚫 You have exceeded the limit! Please select up to 6 symptoms only.")
+    show_button = False
+elif len(selected_symptoms) == 0:
+    st.warning("⚠️ Please select at least one symptom to proceed.")
+    show_button = False
 else:
-    predict_disabled = False
+    show_button = True
 
-# Predict button
-predict_button = st.button("🔍 Predict Disease", disabled=predict_disabled)
+# ================================
+# 5️⃣ Prediction Button (only show if valid)
+# ================================
+if show_button and st.button("🔍 Predict Disease"):
+    # Encode input
+    input_encoded = mlb.transform([selected_symptoms])
 
-if predict_button:
+    # Predict probabilities
+    proba = model.predict_proba(input_encoded)[0]
+    top_idx = np.argsort(proba)[::-1][:3]
 
-    if not selected_symptoms:
-        st.warning("Please select at least one symptom to proceed.")
+    # Display top predictions
+    st.markdown("---")
+    st.subheader("🧩 Prediction Results")
+    for idx in top_idx:
+        disease = model.classes_[idx]
+        confidence = proba[idx] * 100
+        st.write(f"**{disease}** — Confidence: `{confidence:.2f}%`")
+
+    # Pick top prediction
+    top_disease = model.classes_[top_idx[0]]
+
+    # Recommend doctor
+    st.markdown("---")
+    st.subheader("👨‍⚕️ Recommended Doctor")
+    matching_doctors = df_doctors[df_doctors['Disease'].str.lower() == top_disease.lower()]
+
+    if not matching_doctors.empty:
+        doctor = matching_doctors.sample(1).iloc[0]
+        st.success(f"**Doctor Name:** {doctor['Doctor_Name']}")
+        st.write(f"**Specialization:** {doctor['Doctor_Specialization']}")
+        st.write(f"**Contact:** {doctor['Doctor_Contact']}")
     else:
-        # Encode input
-        input_encoded = mlb.transform([selected_symptoms])
+        st.warning(f"No doctor found for **{top_disease}** in the dataset.")
 
-        # Predict probabilities
-        proba = model.predict_proba(input_encoded)[0]
-        top_idx = np.argsort(proba)[::-1][:3]
+    st.markdown("---")
+    st.info(f"🔹 Entered Symptoms: {', '.join(selected_symptoms)}")
 
-        # Display top predictions
-        st.markdown("---")
-        st.subheader("🧩 Prediction Results")
-        for idx in top_idx:
-            disease = model.classes_[idx]
-            confidence = proba[idx] * 100
-            st.write(f"**{disease}** — Confidence: `{confidence:.2f}%`")
-
-        # Pick top prediction
-        top_disease = model.classes_[top_idx[0]]
-
-        # Recommend doctor
-        st.markdown("---")
-        st.subheader("👨‍⚕️ Recommended Doctor")
-        matching_doctors = df_doctors[df_doctors['Disease'].str.lower() == top_disease.lower()]
-
-        if not matching_doctors.empty:
-            doctor = matching_doctors.sample(1).iloc[0]
-            st.success(f"**Doctor Name:** {doctor['Doctor_Name']}")
-            st.write(f"**Specialization:** {doctor['Doctor_Specialization']}")
-            st.write(f"**Contact:** {doctor['Doctor_Contact']}")
-        else:
-            st.warning(f"No doctor found for **{top_disease}** in the dataset.")
-
-        st.markdown("---")
-        st.info(f"🔹 Entered Symptoms: {', '.join(selected_symptoms)}")
-
-# ======================================================
-# 5️⃣ Footer
-# ======================================================
+# ================================
+# 6️⃣ Footer
+# ================================
 st.markdown("""
 ---
 🩺 **Developed by:** AI-based Stomach Disease Analysis Team  
