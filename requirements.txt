@@ -1,9 +1,10 @@
-scikit-learn==0.24.2
-xgboost==1.5.2
-joblib==1.1.1
-streamlit==1.10.0
+scikit-learn
+xgboost
+joblib
+streamlit
 pandas
 numpy
 matplotlib
 seaborn
 shap
+
