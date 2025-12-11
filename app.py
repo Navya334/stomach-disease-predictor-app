@@ -57,7 +57,7 @@ if st.button("Predict Disease", disabled=disable_predict):
     top_idx = np.argsort(proba)[::-1][:3]
 
     # Display top predictions
-    st.markdown("---")
+    
     st.subheader("Prediction Results")
     for idx in top_idx:
         disease = model.classes_[idx]
@@ -68,7 +68,7 @@ if st.button("Predict Disease", disabled=disable_predict):
     top_disease = model.classes_[top_idx[0]]
 
     # Recommend doctor
-    st.markdown("---")
+    
     st.subheader("Recommended Doctor")
     matching_doctors = df_doctors[df_doctors['Disease'].str.lower() == top_disease.lower()]
 
@@ -80,15 +80,16 @@ if st.button("Predict Disease", disabled=disable_predict):
     else:
         st.warning(f"No doctor found for **{top_disease}** in the dataset.")
 
-    st.markdown("---")
+    
     st.info(f"Entered Symptoms: {', '.join(selected_symptoms)}")
 
 # ================================
 # 7️⃣ Footer
 # ================================
 st.markdown("""
----
+
  **Developed by:** AI-based Stomach Disease Analysis Team  
 *Predict with confidence and consult the right doctor!*
 """)
+
 
